@@ -28,7 +28,12 @@
           </div>
           <!-- Navbar Right Side -->
           <div class="navbar-nav">
-            <a class="nav-item nav-link" href="{{ url_for('login') }}">Connecter</a>
+            {% if current_user.is_authenticated %}
+              <a class="nav-item nav-link" href="{{ url_for('account') }}">Compte</a>
+              <a class="nav-item nav-link" href="{{ url_for('logout') }}">Déconnecter</a>
+            {% else %}
+              <a class="nav-item nav-link" href="{{ url_for('login') }}">Connecter</a>
+            {% endif %}
           </div>
         </div>
       </div>
