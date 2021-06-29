@@ -41,16 +41,16 @@ class ProfilPatient(db.Model):
         return f"Profil patient('{self.code}')"
 
 class Variant(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
-    nomScientifique = db.Column(db.String(50), nullable=False)
+    #nomScientifique = db.Column(db.String(50), nullable=False)
+    whoLebel = db.Column(db.String(15), primary_key=True)
 
     def __repr__(self):
-        return f"Variant('{self.nomScientifique}')"
+        return f"Variant('{self.whoLebel}')"
 
 class ProfilPatient_Variant(db.Model):
     degreSeverite = db.Column(db.Integer, nullable=False)
     profilCode = db.Column(db.Integer, db.ForeignKey('ProfilPatient.code'), primary_key=True)
-    variantID = db.Column(db.Integer, db.ForeignKey('Variant.id'), primary_key=True)
+    variantID = db.Column(db.String, db.ForeignKey('Variant.id'), primary_key=True)
 
     def __repr__(self):
         return f"ProfilCode: {self.profilCode}, VariantID: {self.variantID}, Degre severite: {self.degreSeverite}"
