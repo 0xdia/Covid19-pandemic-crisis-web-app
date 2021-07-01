@@ -49,6 +49,6 @@ with open('data/patients.csv', mode='w') as patients:
         row.append(variants[randint(0, len(variants)-1)])
         row.append(randint(1, 10))
         row.append(randint(1,100000))
-        row.append(randint(1, 535))
+        row.append(randint(1, 548))
 
         patients_writer.writerow(row)
