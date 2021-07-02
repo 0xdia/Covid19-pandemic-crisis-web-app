@@ -122,6 +122,7 @@ class DemandeVaccination(db.Model):
     code_patient = db.Column(db.Integer, db.ForeignKey("patients.code"), nullable=False)
 
     vaccination = db.relationship('Vaccination', backref='demande', uselist=False)
+    convocation = db.relationship('Convocation', backref='convoc', uselist=False)
 
     def __repr__(self):
         return f"<DemandeVaccination('{self.id}', '{self.code_patient}')>"
@@ -140,6 +141,7 @@ class Convocation(db.Model):
     __tablename__ = "convocations"
 
     id = db.Column(db.Integer, primary_key=True)
+    demande_id = db.Column(db.Integer, nullable=False)
 
     def __repr__(self):
-        return f""
+        return f"<Convocation('{self.id}', '{self.demande_id}')>"
