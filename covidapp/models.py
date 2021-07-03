@@ -15,8 +15,7 @@ class Autoritaire(db.Model, UserMixin):
     __tablename__ = "autoritaires"
 
     id = db.Column(db.Integer, primary_key=True)
-    nom = db.Column(db.String(20), nullable=False)
-    prenom = db.Column(db.String(20), nullable= False)
+    nom_complet = db.Column(db.String(20), nullable=False)
     email = db.Column(db.String(100), unique=True, nullable=False)
     password = db.Column(db.String(60), nullable=False)
 
@@ -133,15 +132,16 @@ class Vaccination(db.Model):
 
     id = db.Column(db.Integer, primary_key=True)
     demande_id = db.Column(db.Integer, db.ForeignKey("demandes.id"), nullable=False, unique=True) 
+    date = db.Column(db.Date, nullable=False)
 
     def __repr__(self):
-        return f"<Vaccination('{self.id}', '{self.demande_id}')>"
+        return f"<Vaccination('{self.id}', '{self.date}')>"
 
 class Convocation(db.Model):
     __tablename__ = "convocations"
 
     id = db.Column(db.Integer, primary_key=True)
-    demande_id = db.Column(db.Integer, nullable=False)
+    demande_id = db.Column(db.Integer, db.ForeignKey('demandes.id'), nullable=False)
 
     def __repr__(self):
         return f"<Convocation('{self.id}', '{self.demande_id}')>"
