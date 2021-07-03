@@ -20,7 +20,7 @@ class Autoritaire(db.Model, UserMixin):
     password = db.Column(db.String(60), nullable=False)
 
     def __repr__(self):
-        return f"Autoritaire('{self.nom}', '{self.prenom}', '{self.email}')"
+        return f"<Autoritaire('{self.nom_complet}', '{self.email}')>"
 
 class Zone(db.Model):
     __tablename__ = "zones"

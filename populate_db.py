@@ -128,6 +128,18 @@ with open('covidapp/data/demandes_vaccination.csv') as demandes:
 
         i += 1
 
+with open('covidapp/data/autorites.csv') as autorites:
+    autorites_reader = csv.reader(autorites, delimiter=',')
+
+    i = 0
+    for row in autorites_reader:
+        if i != 0:
+            if Autoritaire.query.filter_by(email=row[2]).count() < 1:
+                m = Autoritaire(id=row[0], nom_complet=row[1], email=row[2], password=row[3])                    
+                db.session.add(m)
+
+        i += 1
+
 
 db.session.commit()
 
@@ -155,4 +167,7 @@ db.session.commit()
 
 #print("[*] Querying all demandes")
 #print(DemandeVaccination.query.all())
+
+#print("[*] Querying all autorites")
+#print(Autoritaire.query.all())
 
