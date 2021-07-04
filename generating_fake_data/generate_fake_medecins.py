@@ -1,7 +1,5 @@
 import csv
 from random import randint
-import sys
-sys.path.append("..")
 from covidapp import bcrypt
 
 male_names = [

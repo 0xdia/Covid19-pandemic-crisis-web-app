@@ -9,6 +9,6 @@ class LoginForm(FlaskForm):
     password = PasswordField("Password", 
                         validators=[DataRequired(), Length(min=8, max=50)])
     
-    autoritaire = BooleanField("Autoritaire")
+    autoritaire = BooleanField("Autorite")
     submit = SubmitField("Connecter")
 

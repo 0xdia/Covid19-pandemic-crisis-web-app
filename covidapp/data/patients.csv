@@ -1,0 +1,2000 @@
+code,age,sex,nom_complet,deg_vuln,util_id,var_id,deg_sev,zone_id
+1,96,F,Chaima bel Mahdiya,7,201824,2,8,243
+2,37,M,Hatem bel Mokhtar,9,203430,2,9,432
+3,12,F,Foulla bel Yousra,4,201922,2,9,211
+4,36,M,Youcef bou Dirar,8,204160,2,5,414
+5,56,M,Oussama bou Loubna,4,203385,1,9,168
+6,97,F,Sara bou Ahmed,8,203466,2,6,456
+7,75,F,Zineb bel Yasmine,4,202220,2,1,190
+8,66,M,Mouslim ould Manel,1,201296,2,5,170
+9,78,F,Karima ben Feriel,10,204884,2,7,6
+10,80,F,Manel bou Ahmed,2,202192,1,4,357
+11,60,M,Akram bel Younes,8,201445,2,4,250
+12,10,M,Hatem bel Kaddour,5,204047,1,1,528
+13,54,F,Nesrine bel Lilya,10,201137,2,6,365
+14,15,F,Foulla ben Mouslim,5,203061,2,8,463
+15,94,M,Akram ould Haitham,10,200771,1,10,276
+16,40,F,Sahar ben Younes,7,202480,2,6,125
+17,67,F,Sara ould Abde Al Aziz,8,204856,1,4,385
+18,34,F,Khaoula ould Loubna,4,203436,1,9,503
+19,25,M,Youcef bou Khaoula,7,201554,2,9,451
+20,59,M,Sohaib ould Ahmed,2,200683,2,2,476
+21,25,M,Juba bou Yamina,5,202656,1,9,291
+22,71,F,Feriel bel Kaddour,6,201570,1,2,221
+23,36,F,Zolikha ould Yasmine,5,203773,2,8,260
+24,19,M,Omar bou Naoual,5,204372,2,7,131
+25,91,M,Oussama bou Ahmed,3,203122,1,5,243
+26,50,M,Abde Al Bassit ould Feriel,2,201058,1,1,119
+27,76,F,Chaima bou Allaa Eddine,5,200870,2,4,322
+28,58,F,Karima ben Akram,7,203957,2,10,310
+29,45,F,Maissa ben Dirar,3,201875,2,7,442
+30,84,F,Khaoula bel Karima,4,204018,1,7,432
+31,84,F,Feriel ould Omar,6,202090,2,3,478
+32,97,F,Lilya bel Ramzi,1,203937,1,7,387
+33,65,M,Youcef ben Mouslim,7,202875,2,9,25
+34,90,M,Ahmed bel Maria,10,204875,1,3,5
+35,58,M,Lakhdar ben Sahar,1,202691,2,7,244
+36,27,F,Loubna ben Imad,6,204071,2,9,22
+37,40,M,Ahmed bel Saliha,9,200120,1,1,521
+38,71,F,Amina bel Youcef,8,201743,1,4,318
+39,18,M,Abde Al Aziz bou Ramzi,5,204397,1,9,446
+40,23,F,Yamina bou Farah,4,203084,2,5,473
+41,42,F,Amina ould Sahar,3,204739,2,5,265
+42,67,M,Mohammed bel Hatem,10,202357,1,10,401
+43,82,M,Dhiaa Eddine bou Youcef,8,200460,1,4,7
+44,67,M,Abdel Allah bel Lilya,3,201462,2,7,267
+45,75,F,Yasmine ould Zineb,3,204383,2,9,519
+46,34,M,Dhiaa Eddine ben Mokhtar,2,203613,1,9,232
+47,70,M,Kaddour ben Farah,8,201808,1,6,180
+48,84,F,Zolikha ben Ahmed,6,200660,1,8,172
+49,99,F,Nesrine bel Khadija,7,200195,1,10,250
+50,22,M,Abde Al Aziz bel Sara,5,203123,1,8,154
+51,65,F,Feriel ould Chaima,6,203559,1,4,380
+52,10,M,Abde Al Aziz ben Foulla,8,204227,2,2,101
+53,96,M,Allaa Eddine bel Akram,1,204679,1,10,85
+54,38,M,Juba bou Younes,9,203871,2,10,498
+55,48,M,Akram bel Sahar,1,204936,2,7,65
+56,80,M,Mouslim ould Saliha,3,202778,1,10,118
+57,96,F,Foulla bel Farah,8,202783,1,9,66
+58,96,F,Zolikha bel Lilya,1,204434,2,4,295
+59,22,M,Ramzi ben Hakim,6,204011,2,9,127
+60,69,M,Malek bou Roumaissa,4,201752,1,4,234
+61,24,F,Lilya ben Mouslim,7,203454,1,7,339
+62,84,M,Abde Al Bassit ould Maria,10,204837,1,9,72
+63,24,M,Mouslim ould Ramzi,6,202011,1,9,114
+64,68,F,Chaima bou Mahdiya,4,201166,2,9,51
+65,94,M,Amine bel Abde Al Aziz,8,204374,1,8,55
+66,79,F,Yousra ben Juba,4,204282,1,6,416
+67,46,F,Melissa bou Youcef,3,200656,2,4,389
+68,10,F,Amina bel Zolikha,10,203991,2,10,40
+69,25,F,Melissa bou Saliha,8,204679,1,8,62
+70,91,M,Zine Eddine bou Dhiaa Eddine,7,203175,1,10,90
+71,48,M,Imad ould Abde Al Aziz,1,200175,1,3,460
+72,35,M,Omar ould Abdel Allah,9,200955,2,5,172
+73,59,F,Sara bel Akram,8,202758,1,10,110
+74,89,F,Khadija bou Manel,8,201391,1,5,46
+75,39,M,Younes ben Khaoula,9,200266,1,10,171
+76,60,M,Omar bel Roumaissa,4,202092,2,6,424
+77,30,M,Oussama bou Malek,6,204072,1,10,175
+78,91,M,Ramzi bou Sohaib,8,200086,1,4,544
+79,19,M,Dirar bou Ahmed,7,202508,1,9,282
+80,99,F,Aicha bou Younes,6,202290,1,7,104
+81,77,M,Mokhtar ben Zine Eddine,1,204153,2,10,130
+82,98,M,Younes ould Younes,6,200347,2,3,130
+83,77,F,Loubna bou Younes,6,204469,1,7,203
+84,39,M,Dhiaa Eddine bou Mouslim,4,201617,1,7,212
+85,13,M,Ramzi ould Akram,8,203185,1,2,432
+86,20,F,Zolikha bou Juba,6,201882,2,2,69
+87,87,M,Mohammed ben Amina,5,204756,2,4,475
+88,78,F,Mahdiya ben Ramzi,6,201766,1,6,507
+89,31,F,Manel ben Youcef,10,201299,1,7,226
+90,99,F,Chaima bel Foulla,8,203991,2,2,507
+91,100,F,Loubna bou Maissa,9,204015,1,7,431
+92,79,F,Manel bou Sara,8,204983,1,1,224
+93,54,F,Maissa bou Saliha,2,202341,2,3,481
+94,86,M,Akram ould Nesrine,9,201023,2,1,399
+95,27,F,Yamina ould Chaima,5,202636,1,2,528
+96,24,F,Khadija ben Manel,7,202300,1,9,12
+97,63,F,Saliha ould Lakhdar,2,204357,2,2,122
+98,32,M,Juba bou Roumaissa,6,203301,2,8,9
+99,90,F,Zineb bel Mouslim,2,203799,2,5,529
+100,98,F,Maria ben Dhiaa Eddine,4,201038,1,4,233
+101,63,F,Zineb ould Yasmine,7,202718,1,8,180
+102,24,M,Amine ould Kaddour,6,202643,2,5,47
+103,30,F,Chaima bel Imad,3,204811,1,1,420
+104,71,M,Juba bel Farah,2,201024,1,3,320
+105,96,M,Sohaib bel Khadija,1,202605,2,8,268
+106,65,F,Lilya ould Ramzi,7,201177,2,6,29
+107,61,F,Nesrine bou Dhiaa Eddine,4,203166,1,3,72
+108,48,F,Mahdiya ould Dhiaa Eddine,2,201522,1,6,434
+109,25,M,Mouslim ben Sara,4,204722,1,4,352
+110,100,F,Nesrine ben Younes,3,204836,1,2,263
+111,93,M,Zine Eddine ould Ramzi,8,202282,2,5,497
+112,11,M,Malek bou Zineb,5,203028,1,1,528
+113,28,F,Khaoula ben Abdel Allah,10,203767,1,5,200
+114,69,M,Dirar ben Mouslim,10,200542,1,1,479
+115,21,F,Aicha bou Chaima,3,203857,1,5,471
+116,48,F,Nesrine ben Imad,7,201245,2,2,348
+117,25,F,Amina bel Farah,7,203125,1,10,445
+118,18,M,Haitham bel Saleh,3,203928,2,6,160
+119,53,F,Yousra ould Oussama,7,204619,2,7,102
+120,34,M,Mouslim ould Melissa,6,203725,2,6,424
+121,27,F,Saliha ould Melissa,1,204927,1,7,304
+122,51,F,Yamina bou Zine Eddine,10,201933,2,9,193
+123,70,F,Naoual bou Sahar,1,200265,1,2,100
+124,66,F,Foulla ould Sara,10,201669,1,4,368
+125,86,M,Younes bel Naoual,1,203831,1,4,452
+126,82,F,Maria bou Lakhdar,2,200243,2,6,372
+127,54,M,Hatem ben Yamina,2,200641,1,4,354
+128,45,F,Melissa ould Haitham,5,204004,1,2,304
+129,59,F,Lilya bou Aicha,7,200491,1,6,504
+130,81,F,Loubna ould Dirar,5,201664,2,3,243
+131,17,M,Haitham bou Lilya,2,201982,2,6,163
+132,95,M,Malek bou Khaoula,6,200752,1,2,183
+133,83,F,Naoual bel Hatem,10,200090,2,4,334
+134,22,M,Saleh ben Abde Al Bassit,9,201116,1,1,453
+135,44,M,Hakim ould Zolikha,1,201297,2,8,420
+136,30,F,Loubna bou Younes,9,201961,2,2,466
+137,60,F,Yousra ben Mahdiya,2,203145,2,2,167
+138,58,M,Mohammed ben Saleh,1,200371,2,2,234
+139,79,M,Haitham bou Lilya,10,204248,2,10,57
+140,77,M,Zine Eddine bou Haitham,7,203188,1,4,420
+141,33,M,Ahmed bel Ramzi,8,200810,1,2,422
+142,92,F,Mahdiya ould Mokhtar,6,202406,2,6,241
+143,61,M,Hakim ould Melissa,7,203163,1,6,212
+144,57,F,Sahar ben Allaa Eddine,8,202245,2,4,547
+145,14,F,Naoual ben Mohammed,5,203238,1,3,307
+146,10,M,Hakim bou Haitham,3,200975,1,6,333
+147,75,F,Maissa bou Allaa Eddine,2,202351,2,8,256
+148,66,F,Zineb bel Yasmine,3,200393,1,3,408
+149,44,M,Ramzi bel Feriel,2,202412,1,4,482
+150,94,M,Younes ould Malek,9,203139,1,7,264
+151,69,M,Juba ould Saleh,10,204318,1,10,515
+152,92,F,Maissa ould Kaddour,10,203339,2,8,312
+153,82,M,Abdel Allah bou Zine Eddine,5,200984,1,6,345
+154,22,F,Maria bel Oussama,3,201683,1,9,489
+155,33,F,Farah ould Allaa Eddine,5,202527,2,4,337
+156,59,M,Zine Eddine ben Khadija,2,203629,1,4,299
+157,26,M,Hakim bel Aicha,1,204714,1,4,56
+158,17,F,Loubna bou Juba,2,204768,1,9,241
+159,62,F,Yasmine ben Saleh,7,201628,2,2,463
+160,38,F,Farah bou Yousra,1,200819,1,5,110
+161,10,M,Zine Eddine ould Sara,2,201662,1,4,81
+162,93,M,Abde Al Aziz bou Lakhdar,5,202658,1,2,156
+163,54,M,Oussama bou Naoual,2,202756,1,3,162
+164,48,F,Roumaissa ould Khadija,4,202662,2,4,418
+165,90,M,Amine bou Lilya,10,201896,2,8,54
+166,38,F,Manel bel Hakim,5,202986,2,8,51
+167,30,M,Saleh bel Saleh,1,203346,2,10,284
+168,48,M,Akram ben Imad,8,203128,1,4,280
+169,26,F,Feriel ben Amine,6,200680,2,3,529
+170,32,F,Yamina ben Mohammed,10,202127,2,3,540
+171,17,M,Youcef bou Dhiaa Eddine,6,200276,1,6,548
+172,64,F,Khaoula bel Khaoula,2,204410,2,1,16
+173,42,F,Lilya ould Younes,2,202281,2,1,272
+174,63,M,Mohammed bou Khadija,10,201895,1,3,293
+175,37,F,Amina bou Abde Al Aziz,8,201839,2,4,292
+176,42,M,Saleh bel Dirar,10,202296,1,9,157
+177,26,M,Omar bou Sohaib,6,201567,1,3,417
+178,34,M,Sohaib bou Sahar,4,201420,2,10,230
+179,95,M,Imad ould Maissa,4,203751,2,2,527
+180,48,M,Haitham ben Omar,6,204899,2,6,192
+181,31,M,Dhiaa Eddine ould Loubna,4,204808,1,1,505
+182,24,M,Dirar ould Allaa Eddine,4,203659,1,8,259
+183,18,M,Sohaib ould Abde Al Aziz,8,200444,2,7,76
+184,59,M,Imad bou Lakhdar,3,201499,1,4,154
+185,36,F,Naoual bou Sahar,4,203574,2,7,31
+186,53,M,Sohaib ould Maissa,1,204797,1,10,77
+187,38,M,Imad ould Zine Eddine,4,202698,2,3,63
+188,69,M,Abde Al Aziz ould Haitham,8,204948,2,10,102
+189,37,M,Abde Al Aziz bou Younes,5,204635,1,8,476
+190,23,F,Manel bou Foulla,3,200539,2,1,83
+191,80,F,Karima bel Mouslim,5,200158,2,6,300
+192,11,M,Malek ben Mouslim,3,202240,1,3,119
+193,49,M,Mouslim ould Ramzi,6,200940,1,9,63
+194,18,F,Saliha bou Imad,8,203473,1,5,229
+195,73,F,Sahar ould Roumaissa,3,203091,1,9,99
+196,64,F,Naoual bel Mohammed,1,204124,1,10,166
+197,40,M,Lakhdar bou Allaa Eddine,3,202640,1,3,373
+198,28,F,Aicha ould Maissa,9,200323,1,5,416
+199,32,F,Sara bou Ramzi,4,203198,2,10,539
+200,96,M,Hakim ben Karima,1,204781,2,10,439
+201,10,M,Imad ben Sara,10,202454,2,7,503
+202,54,F,Mahdiya bel Sahar,5,201883,2,10,175
+203,85,F,Lilya ould Younes,6,201532,2,8,86
+204,64,M,Zine Eddine bou Yasmine,5,201542,2,4,56
+205,57,M,Hakim bou Abde Al Aziz,4,203005,1,10,128
+206,24,M,Abdel Allah bel Akram,5,200462,2,2,243
+207,34,F,Loubna ould Saliha,4,203173,2,7,427
+208,73,M,Abdel Allah ould Hatem,2,204806,2,7,146
+209,38,F,Mahdiya ben Amina,6,203822,1,3,187
+210,55,M,Abdel Allah ben Younes,7,200642,2,5,313
+211,22,F,Yasmine ould Khadija,5,203955,1,10,377
+212,14,F,Nesrine ben Sahar,2,202881,1,7,380
+213,17,F,Loubna bou Sara,1,200730,2,2,373
+214,38,F,Nesrine ben Zineb,9,200842,1,10,178
+215,91,F,Lilya bel Lakhdar,2,201519,1,2,49
+216,97,M,Abde Al Aziz ould Saleh,9,202999,2,3,92
+217,63,F,Yousra ould Lilya,5,202666,1,6,275
+218,94,M,Dhiaa Eddine bel Naoual,5,200771,1,5,42
+219,45,F,Karima ould Haitham,4,202487,1,5,257
+220,68,M,Oussama ben Khaoula,5,203055,2,2,270
+221,99,M,Kaddour bou Farah,10,202234,2,1,6
+222,16,M,Akram bou Naoual,6,201427,2,6,261
+223,84,F,Sahar bou Khadija,10,201057,2,7,255
+224,13,M,Abdel Allah bel Imad,1,202544,1,4,486
+225,10,F,Saliha ould Naoual,9,201406,1,6,17
+226,77,M,Amine bou Omar,10,200730,2,6,433
+227,13,M,Omar ben Naoual,8,202065,1,2,224
+228,60,M,Abde Al Bassit bel Imad,7,202218,2,9,280
+229,73,F,Karima ben Melissa,1,204162,2,6,489
+230,52,F,Zineb ould Dhiaa Eddine,4,204289,2,2,243
+231,89,F,Sahar bou Aicha,9,202858,2,4,283
+232,71,F,Sara bou Saleh,9,203558,2,10,322
+233,76,M,Dirar ould Amine,4,201304,2,1,215
+234,75,F,Nesrine bou Imad,4,204394,2,9,108
+235,95,M,Hatem bel Lakhdar,9,204208,2,7,496
+236,67,F,Farah bou Roumaissa,7,202453,2,5,279
+237,44,M,Imad ould Ramzi,9,200348,1,10,498
+238,78,M,Youcef ould Sohaib,6,202735,2,8,373
+239,43,M,Amine bou Karima,5,203385,2,8,340
+240,26,M,Zine Eddine ben Naoual,4,202654,1,8,260
+241,48,F,Aicha ould Oussama,7,202977,1,1,32
+242,34,F,Mahdiya bou Nesrine,3,200330,1,4,415
+243,60,F,Zineb ben Khadija,5,203254,1,5,470
+244,65,M,Juba ben Allaa Eddine,4,204772,2,2,44
+245,18,F,Lilya bel Kaddour,1,201940,2,2,311
+246,56,M,Dirar bel Dirar,5,203421,2,2,493
+247,31,F,Nesrine bou Aicha,10,203850,1,7,540
+248,70,M,Ahmed ould Younes,3,203320,2,8,454
+249,74,M,Omar ould Maissa,10,203562,1,5,264
+250,98,M,Youcef ben Dirar,7,200982,2,4,79
+251,43,F,Sahar ould Naoual,1,202472,1,6,9
+252,87,M,Abde Al Aziz ben Imad,1,201129,1,10,196
+253,60,F,Lilya bou Maria,7,201726,2,1,365
+254,77,M,Dirar ben Melissa,5,201779,2,10,335
+255,64,F,Sahar ould Maissa,8,204876,2,10,102
+256,31,M,Younes bel Allaa Eddine,5,204369,1,7,38
+257,65,F,Maissa ould Amina,8,201266,2,2,310
+258,64,M,Abde Al Aziz bou Saliha,10,201365,1,4,392
+259,24,M,Dirar ould Lilya,4,200946,2,9,397
+260,68,M,Allaa Eddine bou Feriel,1,202350,2,3,78
+261,60,M,Abdel Allah ould Chaima,9,202817,2,7,315
+262,42,M,Youcef ould Youcef,9,203805,1,1,143
+263,92,F,Farah ould Abdel Allah,10,202083,2,1,412
+264,54,M,Haitham ould Omar,2,201885,1,10,234
+265,49,M,Hatem ould Mahdiya,2,201505,2,4,149
+266,93,M,Mohammed ould Ramzi,1,202660,1,3,352
+267,56,M,Mokhtar bel Aicha,1,202116,2,8,503
+268,12,M,Allaa Eddine bou Sara,6,201941,2,8,121
+269,81,M,Saleh bel Manel,10,202740,1,6,144
+270,28,F,Manel ould Kaddour,4,202122,2,10,464
+271,52,F,Karima ben Abde Al Bassit,5,202645,1,3,25
+272,83,M,Dhiaa Eddine ould Farah,6,201020,1,10,50
+273,89,M,Malek ben Foulla,10,200657,2,6,398
+274,72,M,Oussama ould Dhiaa Eddine,10,204522,2,3,415
+275,40,M,Ramzi ould Feriel,4,203534,1,6,503
+276,96,F,Khaoula ould Khaoula,6,200534,1,2,122
+277,18,M,Mouslim bou Aicha,3,203091,2,6,235
+278,52,M,Omar bel Mohammed,10,203872,1,9,182
+279,55,M,Zine Eddine bel Kaddour,10,204666,1,10,357
+280,59,M,Amine ben Karima,8,202554,1,4,395
+281,99,F,Chaima ould Hatem,9,202158,2,9,125
+282,47,F,Yousra bel Ahmed,5,203205,1,9,22
+283,82,M,Haitham ben Ahmed,7,203615,2,7,467
+284,39,F,Chaima bou Oussama,9,203408,1,1,158
+285,86,M,Youcef bou Aicha,7,202260,2,7,122
+286,36,M,Sohaib ben Melissa,6,203261,2,6,104
+287,61,M,Ramzi ould Zine Eddine,4,200854,1,8,301
+288,25,F,Mahdiya ould Amina,8,201200,2,2,7
+289,17,F,Lilya bel Feriel,1,202676,2,2,154
+290,82,F,Khadija ben Khaoula,4,200941,1,3,55
+291,29,M,Allaa Eddine bou Yamina,4,202401,2,4,403
+292,92,F,Khadija ben Khaoula,6,203755,2,7,174
+293,77,F,Foulla ould Haitham,6,200014,2,8,543
+294,78,F,Zolikha bou Chaima,9,201222,1,7,498
+295,20,F,Naoual bel Roumaissa,6,203799,1,5,11
+296,55,F,Sara bou Yousra,1,204117,2,2,213
+297,74,M,Kaddour ben Foulla,7,201834,2,1,514
+298,46,F,Yasmine ben Zineb,7,200709,1,8,90
+299,63,F,Loubna ben Feriel,6,202575,2,5,469
+300,40,M,Malek ben Lakhdar,8,200035,2,3,87
+301,90,M,Zine Eddine ben Haitham,5,203853,2,8,56
+302,83,M,Juba ben Mouslim,4,203134,1,10,186
+303,31,F,Chaima ben Melissa,6,200874,1,1,311
+304,18,F,Maria ould Zine Eddine,10,201611,2,7,499
+305,69,F,Sara ould Manel,10,200350,2,8,364
+306,49,F,Naoual ould Ramzi,8,204905,1,3,206
+307,42,M,Malek bou Dhiaa Eddine,9,200147,1,9,403
+308,61,M,Juba ould Zolikha,1,204319,1,4,96
+309,76,F,Sara bou Karima,3,200673,2,10,138
+310,18,F,Yamina bel Lakhdar,2,200254,1,6,288
+311,98,F,Nesrine ould Allaa Eddine,5,201524,2,10,24
+312,33,M,Lakhdar ould Hatem,3,202537,1,2,475
+313,88,M,Abde Al Aziz ben Nesrine,3,202710,1,7,512
+314,85,F,Foulla bou Hatem,5,204784,1,8,236
+315,77,M,Malek bou Yasmine,5,200608,1,10,151
+316,55,M,Hakim ben Aicha,5,204473,2,3,234
+317,86,M,Amine ben Farah,7,202974,1,3,281
+318,77,M,Mohammed bel Kaddour,10,202326,1,5,152
+319,56,F,Feriel bou Amina,7,200733,1,10,392
+320,21,M,Mouslim ould Saleh,7,203773,1,2,61
+321,38,F,Yousra bou Akram,1,203986,2,8,186
+322,62,M,Younes bel Khaoula,5,203567,2,7,531
+323,93,F,Maissa ben Youcef,8,202423,2,3,9
+324,45,F,Feriel ben Sohaib,7,202155,2,6,400
+325,98,M,Juba bel Maissa,3,202278,1,10,508
+326,22,F,Roumaissa bel Omar,4,202241,2,7,10
+327,46,M,Zine Eddine bel Karima,10,203863,1,7,176
+328,25,F,Melissa ould Imad,4,204071,1,3,441
+329,16,M,Amine bou Roumaissa,4,204484,2,9,341
+330,28,M,Abdel Allah bou Hatem,1,201834,2,4,160
+331,53,F,Zolikha bel Roumaissa,7,204986,1,1,398
+332,16,F,Mahdiya ould Khaoula,5,203637,1,3,244
+333,38,F,Sara bou Mouslim,7,202771,2,6,142
+334,74,F,Saliha ben Zine Eddine,6,202607,2,6,182
+335,91,F,Zineb bel Kaddour,7,201833,1,9,17
+336,52,F,Karima bel Loubna,7,200895,1,3,366
+337,64,M,Akram ould Imad,1,202321,1,3,478
+338,78,F,Maria bou Hatem,10,200445,2,4,499
+339,26,F,Zolikha ben Foulla,6,202465,1,2,312
+340,96,F,Yasmine bou Abdel Allah,5,204354,1,2,147
+341,22,F,Maria ben Youcef,7,200040,1,8,246
+342,75,F,Farah bel Imad,5,204934,1,3,25
+343,52,F,Sara bou Dhiaa Eddine,2,202685,1,8,338
+344,21,F,Yousra ould Khadija,4,201045,2,10,504
+345,67,M,Juba bel Saleh,1,202876,2,3,321
+346,66,F,Foulla ould Melissa,4,204129,1,8,456
+347,81,M,Hakim bou Juba,7,201049,2,1,254
+348,77,M,Haitham bou Naoual,10,200641,1,3,500
+349,43,F,Zineb bou Zineb,7,200838,2,6,506
+350,46,F,Mahdiya bou Kaddour,2,202145,1,4,500
+351,13,F,Nesrine ould Roumaissa,7,200951,1,8,39
+352,74,M,Malek bel Lilya,1,201663,1,4,64
+353,75,F,Amina ben Loubna,4,200434,1,8,148
+354,87,M,Kaddour ould Malek,3,202997,2,8,537
+355,19,F,Khadija bou Roumaissa,4,202164,2,5,381
+356,16,M,Mokhtar ben Loubna,8,202128,2,7,279
+357,72,F,Yamina ben Maria,4,202312,2,1,79
+358,97,M,Mohammed bel Hatem,9,202734,1,1,474
+359,54,M,Mokhtar bel Ahmed,5,200271,1,6,65
+360,11,F,Nesrine ben Allaa Eddine,8,200399,1,7,473
+361,39,M,Mokhtar bel Imad,6,201519,1,10,165
+362,11,F,Khaoula bou Melissa,5,203628,2,9,137
+363,21,M,Lakhdar bel Amine,7,204851,1,5,520
+364,63,M,Kaddour ould Mahdiya,6,202763,2,6,155
+365,57,F,Feriel bel Farah,6,204478,2,2,507
+366,19,F,Yamina ould Ramzi,2,202873,2,7,20
+367,41,F,Foulla bou Ramzi,10,200653,1,5,47
+368,16,M,Ramzi bel Zolikha,9,200457,2,10,294
+369,42,F,Chaima bel Amina,7,201040,2,7,306
+370,40,M,Youcef bou Abde Al Bassit,7,201876,1,8,293
+371,84,F,Chaima bel Mohammed,2,201176,2,4,71
+372,47,F,Manel bel Yousra,5,202367,2,10,256
+373,70,F,Feriel bou Saleh,2,200354,1,9,419
+374,22,F,Zolikha ould Abdel Allah,6,203026,2,10,367
+375,14,F,Chaima ben Ramzi,1,200954,1,10,202
+376,13,M,Dirar bou Abde Al Bassit,4,204722,2,10,221
+377,42,M,Abde Al Bassit ould Hakim,9,204828,2,3,457
+378,76,F,Naoual ould Kaddour,4,204501,1,5,437
+379,70,F,Feriel bel Imad,3,203791,2,7,317
+380,13,M,Sohaib ould Abdel Allah,3,202735,1,2,206
+381,37,M,Omar ben Amina,8,204876,1,7,74
+382,67,F,Manel ould Omar,4,201743,2,9,100
+383,92,M,Mokhtar bel Abde Al Bassit,10,201769,1,7,516
+384,81,F,Manel ould Maissa,9,203449,2,10,273
+385,23,M,Imad bel Farah,8,203983,2,2,502
+386,23,F,Yamina bou Khadija,8,203314,2,5,55
+387,19,M,Younes ben Abde Al Aziz,10,204819,2,4,369
+388,56,F,Mahdiya bel Zineb,4,201710,1,9,481
+389,61,F,Maria ben Loubna,7,202947,1,3,197
+390,95,M,Juba bel Youcef,7,203060,1,10,71
+391,27,M,Dirar bel Youcef,6,202475,1,10,22
+392,46,M,Hatem ould Oussama,9,203568,2,3,529
+393,74,F,Saliha bel Mohammed,8,203899,2,1,256
+394,25,F,Yasmine bel Farah,6,204808,1,3,116
+395,88,F,Khaoula bou Akram,1,202599,2,2,527
+396,96,M,Hatem ben Saleh,4,200028,1,8,106
+397,41,F,Chaima ould Zolikha,2,202541,1,7,519
+398,97,M,Mouslim bou Kaddour,10,201963,2,10,328
+399,40,F,Foulla ould Lakhdar,5,201530,1,5,520
+400,15,M,Allaa Eddine ould Haitham,9,201244,1,5,384
+401,54,M,Juba ben Sahar,1,201032,2,3,150
+402,65,F,Roumaissa bou Younes,6,204413,1,5,495
+403,74,M,Youcef ben Saliha,4,200862,1,4,170
+404,74,F,Maria ould Yousra,8,203681,1,8,227
+405,76,M,Ahmed ben Lilya,8,204179,1,5,481
+406,79,F,Maissa bou Yasmine,10,203190,1,4,483
+407,21,F,Sahar ben Haitham,9,204295,1,4,401
+408,36,F,Yousra ben Zine Eddine,5,204864,1,3,210
+409,76,F,Foulla ould Juba,2,204547,1,7,277
+410,80,F,Maissa ould Juba,9,201612,2,6,435
+411,44,M,Abde Al Bassit bou Zine Eddine,7,200289,2,2,19
+412,37,M,Abde Al Bassit ould Amine,5,202269,2,3,298
+413,66,F,Lilya ould Zolikha,2,201137,1,9,66
+414,53,F,Feriel bou Imad,3,203843,1,8,120
+415,20,F,Maissa ben Dirar,6,203941,1,6,314
+416,72,F,Manel ould Yamina,3,201030,2,4,272
+417,25,M,Juba bel Khadija,8,202327,2,9,77
+418,12,F,Khaoula bel Khadija,2,202284,1,7,161
+419,80,F,Lilya ould Zine Eddine,7,204679,2,10,50
+420,73,F,Khaoula bel Foulla,6,200965,2,9,223
+421,88,M,Mouslim ould Mahdiya,3,202239,1,2,419
+422,98,M,Dirar bou Melissa,4,202220,1,6,326
+423,60,M,Zine Eddine bel Khaoula,10,200521,2,3,72
+424,11,M,Haitham ould Feriel,1,202263,1,9,127
+425,86,M,Mohammed bel Chaima,3,203880,2,9,506
+426,64,M,Allaa Eddine ould Roumaissa,2,200077,1,8,8
+427,92,M,Hatem bel Maissa,5,201140,1,7,66
+428,56,F,Zolikha ould Amine,3,200543,1,8,451
+429,60,M,Juba ben Mouslim,1,200864,2,3,402
+430,28,M,Dirar bou Aicha,8,202379,2,1,499
+431,98,M,Dhiaa Eddine bou Zolikha,1,201760,2,9,423
+432,88,F,Zolikha bel Saleh,5,204711,1,9,493
+433,87,M,Hatem bou Imad,2,202317,2,9,135
+434,81,F,Lilya bel Yasmine,7,203455,1,5,120
+435,51,F,Yousra bel Aicha,10,203678,2,10,302
+436,95,M,Haitham bou Saleh,5,203115,1,9,324
+437,35,F,Sara bel Farah,4,201763,1,1,543
+438,16,F,Zineb bou Juba,1,203967,1,1,515
+439,72,M,Mokhtar bel Amine,10,204718,1,10,265
+440,61,M,Haitham ben Saliha,9,204357,1,4,239
+441,59,F,Khadija ould Omar,8,204617,2,5,447
+442,93,M,Malek bou Saleh,8,203364,2,6,44
+443,90,F,Amina bel Lilya,2,202144,1,9,541
+444,74,F,Chaima bou Roumaissa,6,200890,1,1,357
+445,53,F,Zineb ben Lilya,3,203705,1,3,541
+446,66,F,Lilya bou Juba,2,200185,2,10,210
+447,10,F,Foulla ould Yamina,1,201904,2,6,521
+448,71,F,Lilya bou Malek,8,200945,1,4,375
+449,21,F,Yousra bel Akram,5,201740,2,6,342
+450,52,F,Nesrine ould Sohaib,1,200479,2,4,391
+451,35,M,Abde Al Aziz ould Maria,4,200677,2,7,38
+452,82,F,Sahar ben Juba,1,203295,1,9,343
+453,61,M,Kaddour ould Haitham,3,201115,1,7,244
+454,19,F,Saliha ould Amine,1,202686,1,7,348
+455,67,F,Zineb ould Maissa,4,202012,1,10,39
+456,54,F,Manel bel Maissa,7,202095,1,7,374
+457,83,F,Melissa ben Yamina,6,203268,2,6,165
+458,62,F,Mahdiya bel Roumaissa,5,200928,1,4,444
+459,63,F,Mahdiya ben Omar,8,202720,2,1,410
+460,61,M,Haitham ben Lilya,8,201481,1,4,463
+461,16,F,Nesrine ben Foulla,1,202159,1,3,244
+462,40,F,Nesrine ben Akram,10,201298,2,3,319
+463,86,M,Amine ben Sahar,1,202018,2,2,164
+464,11,M,Dhiaa Eddine bou Dirar,2,200599,2,3,133
+465,28,M,Hatem bou Chaima,1,203264,2,4,285
+466,14,M,Hakim ben Malek,2,200126,2,5,15
+467,72,M,Amine bel Saleh,4,201033,2,3,380
+468,38,F,Chaima bou Foulla,4,203284,1,6,249
+469,11,M,Haitham bou Foulla,6,204314,1,9,391
+470,77,M,Hatem bou Saliha,6,200882,1,6,444
+471,36,M,Zine Eddine ben Sara,3,203066,2,9,196
+472,62,F,Maissa bel Maria,5,200839,1,9,284
+473,22,M,Mohammed bel Hakim,3,202514,2,9,52
+474,28,F,Maria bel Zolikha,7,201713,2,2,88
+475,52,M,Zine Eddine ben Kaddour,6,201147,1,1,437
+476,52,F,Feriel ben Sahar,1,203341,1,2,427
+477,38,M,Zine Eddine bou Ramzi,6,200227,1,8,410
+478,16,M,Ahmed bel Abde Al Bassit,7,202540,2,1,63
+479,97,F,Sahar bel Saleh,2,202793,1,6,32
+480,23,M,Dhiaa Eddine bou Abde Al Aziz,6,200207,2,9,495
+481,11,M,Imad ben Yamina,2,203287,1,1,214
+482,65,F,Melissa ben Chaima,5,204676,1,2,24
+483,73,M,Oussama bou Sohaib,4,202151,2,7,435
+484,46,M,Dhiaa Eddine ould Lilya,3,204926,1,7,214
+485,70,M,Omar bou Naoual,5,204613,1,1,67
+486,15,M,Mouslim ould Hakim,6,202960,2,2,345
+487,93,F,Maria ben Loubna,9,203863,2,9,425
+488,69,F,Loubna bou Karima,3,202998,2,9,57
+489,89,F,Roumaissa ben Dhiaa Eddine,6,200627,1,7,18
+490,17,M,Imad ould Melissa,10,200202,2,8,40
+491,46,F,Aicha ould Farah,8,201495,1,4,82
+492,58,M,Akram bou Oussama,5,202448,1,7,271
+493,64,F,Amina bou Khaoula,5,202880,2,1,165
+494,97,M,Akram ben Yamina,5,204301,2,3,370
+495,30,M,Omar bou Ahmed,7,202937,2,1,26
+496,52,F,Feriel bel Feriel,9,201911,1,5,347
+497,22,F,Amina bel Roumaissa,1,203281,1,10,353
+498,89,F,Lilya ben Youcef,5,203118,2,9,195
+499,80,F,Farah ould Imad,6,201950,1,3,148
+500,57,M,Dirar bou Loubna,2,200210,1,3,525
+501,11,M,Dirar ould Abde Al Aziz,10,203331,1,4,401
+502,90,M,Abdel Allah bel Amina,2,203241,2,1,136
+503,51,F,Yamina bou Khadija,7,201838,1,9,383
+504,25,F,Yasmine ben Nesrine,8,203699,2,10,253
+505,89,F,Maria bel Manel,3,202031,1,6,229
+506,62,F,Sahar ould Sahar,3,200274,1,10,158
+507,13,F,Karima ould Mouslim,2,202162,1,6,387
+508,69,M,Akram ben Yasmine,6,203192,2,2,141
+509,88,M,Imad ould Loubna,8,200587,2,2,195
+510,100,M,Dhiaa Eddine bel Imad,6,204852,1,4,295
+511,64,F,Foulla bou Amine,4,204172,1,1,420
+512,39,M,Mohammed bel Malek,3,200840,1,3,303
+513,50,F,Roumaissa ben Dhiaa Eddine,7,202401,1,7,76
+514,60,F,Karima ould Yamina,5,204296,2,9,311
+515,90,M,Sohaib bou Zine Eddine,4,202685,1,7,195
+516,38,F,Karima ben Foulla,4,202203,2,1,278
+517,47,M,Ahmed bel Foulla,4,201377,2,9,80
+518,52,F,Naoual ould Ahmed,1,200772,2,9,421
+519,34,M,Ramzi bel Zineb,5,202913,1,9,449
+520,39,F,Farah bou Foulla,4,202345,1,3,340
+521,82,F,Sara bel Allaa Eddine,6,200528,1,10,413
+522,37,F,Khadija ould Khadija,6,200302,2,3,318
+523,85,F,Mahdiya ould Imad,5,203379,1,9,384
+524,79,F,Manel bel Khadija,4,204164,1,6,357
+525,44,M,Abde Al Aziz bou Nesrine,3,201354,1,7,447
+526,26,M,Mouslim bou Kaddour,6,203370,1,3,55
+527,43,M,Youcef ould Sara,2,203096,1,7,215
+528,98,M,Mokhtar bel Feriel,5,204045,1,10,416
+529,30,F,Melissa ben Mokhtar,6,202117,2,6,432
+530,86,F,Aicha ould Dirar,8,204262,2,8,66
+531,65,M,Akram bou Foulla,1,200031,2,8,176
+532,68,M,Amine ould Mahdiya,4,201817,1,7,35
+533,73,F,Chaima bou Haitham,8,204176,2,4,64
+534,93,F,Sahar ben Mahdiya,4,203449,1,1,80
+535,30,F,Manel bou Ramzi,6,201348,1,9,117
+536,57,F,Saliha bel Akram,5,200035,2,10,335
+537,84,F,Feriel bou Kaddour,8,202263,1,8,436
+538,79,M,Mokhtar ould Khadija,3,203289,2,1,88
+539,84,F,Sara bou Abde Al Aziz,2,201598,1,10,39
+540,69,F,Feriel ould Mokhtar,1,202525,2,5,500
+541,45,M,Younes bou Maissa,7,203891,1,10,480
+542,48,M,Dirar ould Sara,4,200407,2,10,57
+543,89,M,Mohammed ould Mouslim,6,200279,1,3,322
+544,56,M,Akram bel Maria,4,204614,2,2,365
+545,55,M,Abde Al Bassit bou Aicha,6,203237,1,6,8
+546,87,F,Khadija ould Amine,2,202129,2,10,50
+547,56,M,Abdel Allah bel Juba,9,200682,2,8,122
+548,21,M,Younes ould Lakhdar,6,200181,1,5,155
+549,99,F,Chaima ben Mokhtar,10,200253,2,3,191
+550,31,M,Imad ben Farah,5,200758,2,2,448
+551,49,F,Mahdiya ben Malek,10,204941,1,10,219
+552,87,F,Nesrine bou Amina,3,201098,1,2,99
+553,38,F,Yousra bel Hatem,1,201306,2,7,517
+554,78,M,Hatem ben Naoual,2,201295,2,8,377
+555,94,M,Ahmed bou Zineb,7,202089,2,4,402
+556,88,F,Foulla bou Ahmed,2,204287,1,6,450
+557,80,M,Hatem ould Dhiaa Eddine,7,202997,2,5,276
+558,79,F,Melissa ben Sohaib,3,204336,1,9,231
+559,47,F,Amina bou Youcef,9,200728,2,7,118
+560,97,F,Manel bel Dhiaa Eddine,9,204118,1,1,458
+561,69,F,Melissa ould Akram,3,202469,2,8,305
+562,43,M,Mouslim bou Haitham,4,203222,2,1,360
+563,72,F,Yasmine bel Yamina,6,203357,1,1,374
+564,93,F,Sara bou Yamina,9,201149,1,10,543
+565,72,F,Roumaissa bel Hatem,3,203063,1,3,449
+566,72,M,Abdel Allah ben Lakhdar,4,204955,2,9,77
+567,57,F,Manel bou Lilya,3,202762,1,2,355
+568,98,F,Yousra bou Loubna,6,204070,2,7,481
+569,33,F,Zineb ould Abde Al Bassit,10,201304,1,6,366
+570,28,M,Hakim bou Akram,3,204782,2,8,332
+571,28,F,Zineb ben Khadija,8,201136,1,6,40
+572,100,M,Sohaib ben Feriel,7,200167,1,8,214
+573,75,F,Yasmine ould Zineb,10,204306,2,3,385
+574,40,F,Karima ben Sara,7,203461,1,8,372
+575,68,M,Kaddour bou Sohaib,2,202225,2,6,443
+576,93,F,Melissa ben Zineb,5,200842,2,9,8
+577,64,F,Saliha ould Chaima,8,203881,1,10,241
+578,71,F,Khadija bel Khadija,1,204432,2,7,487
+579,23,M,Mohammed bel Mahdiya,8,201666,2,9,366
+580,64,M,Akram bel Khaoula,8,200463,1,1,431
+581,47,M,Kaddour bel Imad,9,201919,1,5,250
+582,73,M,Juba bou Farah,1,200939,2,1,171
+583,48,F,Aicha bel Abdel Allah,8,201529,1,2,31
+584,19,F,Aicha ben Younes,3,201735,1,4,182
+585,40,F,Zineb bou Manel,10,204593,2,1,145
+586,91,M,Abdel Allah ould Amine,9,202657,1,5,434
+587,20,F,Mahdiya ould Aicha,9,200661,1,8,8
+588,71,F,Farah ben Aicha,9,202413,1,9,110
+589,100,F,Khadija ould Haitham,1,201732,1,10,538
+590,95,F,Sahar ould Mouslim,1,201166,1,1,352
+591,29,M,Imad ould Saliha,1,202420,1,3,38
+592,92,M,Allaa Eddine bel Nesrine,8,202319,2,6,143
+593,43,M,Abde Al Aziz ould Mahdiya,7,201339,2,7,401
+594,48,F,Yamina bou Feriel,6,200206,2,9,280
+595,71,M,Juba bel Sara,1,204963,2,6,281
+596,33,M,Abde Al Bassit bel Khadija,2,204328,1,8,147
+597,59,F,Yamina bel Roumaissa,6,202376,1,2,248
+598,76,M,Lakhdar bou Melissa,6,201483,2,2,366
+599,80,F,Manel bel Chaima,2,204510,2,6,380
+600,22,M,Abde Al Aziz bel Sara,3,201530,1,4,96
+601,82,M,Imad ben Sohaib,4,204312,1,9,368
+602,51,F,Manel bou Sohaib,6,203435,1,4,474
+603,98,M,Amine ould Abdel Allah,2,200552,2,8,341
+604,78,M,Dirar bel Hakim,7,202378,2,10,397
+605,25,M,Abde Al Bassit ben Chaima,8,203583,2,7,187
+606,90,M,Allaa Eddine bel Melissa,8,203126,1,4,278
+607,30,M,Younes bou Karima,4,202201,2,10,305
+608,77,M,Saleh bou Sara,9,203023,1,3,142
+609,71,M,Ramzi bou Saleh,4,201085,1,4,526
+610,57,M,Mouslim ould Younes,9,204203,1,1,492
+611,61,F,Saliha bou Chaima,8,203200,1,9,447
+612,58,M,Ahmed bou Malek,7,203399,1,6,387
+613,80,F,Feriel ben Haitham,8,201085,2,2,207
+614,56,F,Naoual ould Yousra,5,201362,2,4,443
+615,48,M,Ahmed bel Akram,5,201370,2,2,395
+616,72,M,Lakhdar ould Imad,1,201459,2,9,540
+617,87,M,Dirar ould Ahmed,10,202097,1,6,247
+618,84,F,Aicha ould Mohammed,6,202105,1,5,339
+619,35,F,Yasmine ould Sara,8,204238,2,2,418
+620,80,F,Amina ben Mouslim,9,201437,2,2,476
+621,23,F,Saliha ould Melissa,2,201561,1,9,351
+622,34,M,Oussama bou Manel,5,201004,1,4,273
+623,16,F,Zineb ould Juba,2,202344,2,1,250
+624,55,F,Farah bel Ramzi,10,200354,2,6,357
+625,70,M,Hakim bel Abde Al Bassit,8,200450,1,8,516
+626,94,M,Abde Al Bassit bou Nesrine,8,202725,2,2,176
+627,17,M,Omar ben Nesrine,2,201367,1,6,151
+628,55,F,Loubna ben Lakhdar,6,201207,2,1,27
+629,68,M,Mokhtar ben Yasmine,5,200045,2,6,485
+630,56,F,Yousra bel Zine Eddine,8,200111,1,8,183
+631,27,M,Oussama bel Sahar,6,204220,1,2,389
+632,22,F,Karima bou Akram,7,201057,2,3,501
+633,98,M,Haitham bel Nesrine,5,204941,1,8,87
+634,50,F,Aicha bel Yousra,2,201328,2,3,6
+635,26,F,Zolikha bou Yamina,8,203507,2,9,7
+636,12,M,Hatem bou Younes,7,203786,2,6,273
+637,72,M,Ahmed ben Khadija,8,201974,2,5,459
+638,57,F,Melissa ben Zineb,4,201041,2,9,75
+639,53,M,Allaa Eddine bou Sahar,9,203979,1,4,221
+640,75,F,Naoual ben Dirar,7,202281,2,6,96
+641,48,F,Saliha ben Younes,6,201047,1,9,263
+642,62,M,Abdel Allah ben Sohaib,9,203817,2,1,369
+643,97,M,Ramzi bou Younes,10,204659,2,3,106
+644,24,F,Melissa bou Younes,1,200722,1,3,381
+645,91,M,Abde Al Bassit ould Loubna,3,200367,1,10,201
+646,31,F,Foulla ould Youcef,3,202078,2,7,392
+647,73,M,Mouslim ben Youcef,10,203136,1,9,413
+648,69,F,Mahdiya bel Maissa,2,203869,1,4,201
+649,29,F,Foulla ben Saliha,10,202469,2,2,293
+650,63,F,Yousra bou Younes,7,201490,1,1,417
+651,75,F,Karima ben Zineb,9,204732,2,2,91
+652,21,M,Lakhdar ben Younes,10,202988,1,5,186
+653,40,M,Hakim ould Juba,10,201502,1,2,66
+654,32,F,Mahdiya ben Younes,6,204551,2,1,33
+655,29,F,Yasmine ben Oussama,7,200977,1,5,524
+656,94,M,Saleh bou Maissa,9,201829,1,10,223
+657,47,F,Foulla ould Chaima,9,201581,2,4,339
+658,21,F,Karima ben Maria,6,202649,1,2,449
+659,73,F,Melissa bel Ahmed,8,201206,1,4,511
+660,77,F,Khaoula bel Feriel,5,204230,1,7,267
+661,36,M,Mouslim bel Chaima,5,203930,2,6,432
+662,32,M,Amine ben Akram,8,201473,2,9,402
+663,18,M,Mouslim bel Abde Al Aziz,6,203458,1,2,131
+664,79,M,Lakhdar bou Lakhdar,4,203916,2,10,301
+665,42,F,Saliha bou Youcef,1,203013,1,8,544
+666,31,F,Khaoula bou Lilya,9,201392,1,2,21
+667,38,M,Mouslim ben Sara,4,202412,2,6,24
+668,84,F,Khadija ould Hatem,7,204807,1,5,291
+669,59,M,Imad bel Roumaissa,8,200360,1,2,453
+670,69,F,Foulla bel Mohammed,7,204148,2,7,283
+671,51,M,Haitham bel Youcef,8,203405,2,9,22
+672,32,M,Mouslim bou Khaoula,9,201398,1,2,127
+673,43,M,Amine bou Yasmine,6,202690,1,9,328
+674,36,M,Abde Al Bassit bou Saliha,2,203643,1,4,14
+675,18,F,Saliha bel Karima,7,204614,2,3,145
+676,81,F,Roumaissa bou Aicha,6,200704,2,2,341
+677,20,M,Youcef ould Dhiaa Eddine,5,202156,2,5,337
+678,45,F,Karima bel Mahdiya,7,202878,2,1,187
+679,19,F,Khadija ould Malek,9,202561,1,1,235
+680,66,F,Maissa ould Farah,7,204160,1,2,358
+681,67,M,Zine Eddine bel Omar,6,204311,1,8,491
+682,28,F,Feriel bou Youcef,8,200219,1,4,201
+683,21,M,Akram ould Haitham,7,203177,1,2,131
+684,41,M,Dhiaa Eddine ould Juba,1,200662,2,9,117
+685,23,F,Manel ould Ahmed,10,204139,2,9,369
+686,18,M,Malek ould Mahdiya,4,200594,2,4,519
+687,21,F,Maissa ould Dirar,2,203309,2,9,430
+688,74,F,Maissa bou Maria,4,201202,2,5,340
+689,87,M,Akram bou Ahmed,3,203389,2,5,62
+690,23,M,Oussama ould Nesrine,9,203672,2,4,247
+691,65,F,Melissa ben Manel,5,203176,1,6,546
+692,87,M,Mohammed ould Mouslim,2,200966,1,10,214
+693,23,M,Malek ould Ramzi,7,202822,1,8,333
+694,86,M,Abdel Allah ben Aicha,6,203947,1,5,202
+695,88,F,Nesrine bou Zineb,8,200802,2,10,20
+696,40,F,Yamina bou Youcef,5,201905,1,10,414
+697,84,F,Manel ben Abde Al Aziz,8,202344,1,6,362
+698,25,M,Mouslim bou Dhiaa Eddine,4,202387,2,5,380
+699,62,F,Farah ould Zineb,3,203237,2,8,465
+700,39,M,Dhiaa Eddine bel Abdel Allah,5,204358,2,3,367
+701,55,F,Yasmine bel Ramzi,6,203139,2,1,410
+702,25,F,Karima ben Chaima,5,202892,1,7,188
+703,11,F,Lilya bel Haitham,9,204781,2,2,457
+704,35,F,Loubna ould Younes,5,201341,1,2,430
+705,20,M,Lakhdar bou Mohammed,5,200423,1,7,147
+706,10,F,Mahdiya bel Maria,4,202548,2,1,328
+707,96,M,Hakim ould Dhiaa Eddine,4,200032,2,3,259
+708,74,F,Lilya ould Mahdiya,4,200261,2,10,240
+709,95,M,Imad ould Kaddour,8,200676,2,4,402
+710,93,M,Juba ould Roumaissa,1,201666,1,2,46
+711,69,F,Lilya ben Younes,8,204998,1,9,537
+712,21,F,Amina ben Kaddour,3,204437,2,7,383
+713,47,F,Lilya ould Dhiaa Eddine,4,202660,1,10,278
+714,42,M,Ramzi ould Farah,5,204256,1,6,427
+715,24,M,Abde Al Bassit bel Youcef,1,204225,2,2,127
+716,59,M,Oussama bel Khaoula,6,201489,2,9,181
+717,19,F,Roumaissa ould Hatem,6,204387,1,7,291
+718,95,F,Yousra bou Kaddour,9,203615,2,5,501
+719,96,M,Abde Al Aziz ben Chaima,9,201844,1,3,407
+720,68,M,Mohammed bel Naoual,6,201981,2,5,301
+721,73,F,Aicha ould Maissa,9,201911,2,3,99
+722,75,F,Zineb bel Yamina,8,203647,1,2,358
+723,24,M,Ahmed ben Juba,8,204807,1,10,510
+724,32,M,Dhiaa Eddine bel Khaoula,6,201538,1,7,45
+725,73,F,Loubna bou Abde Al Aziz,7,200993,1,1,510
+726,13,F,Zineb ben Saleh,9,200626,1,6,122
+727,85,M,Hakim ould Khadija,5,202655,2,6,96
+728,20,M,Abde Al Aziz bel Saleh,8,203982,1,6,374
+729,37,M,Kaddour ben Mouslim,7,202563,1,2,337
+730,79,M,Younes bou Maria,3,202607,2,3,236
+731,70,M,Ahmed ould Mohammed,2,200948,1,9,406
+732,72,M,Omar bou Omar,10,204605,2,3,306
+733,59,M,Dirar bou Naoual,8,202055,2,3,78
+734,35,F,Aicha ould Feriel,9,201556,2,8,534
+735,84,F,Khadija ben Farah,6,203602,1,2,24
+736,26,F,Mahdiya bou Melissa,8,200971,2,8,123
+737,35,F,Yasmine ben Dhiaa Eddine,1,203729,2,10,288
+738,77,F,Maria bou Aicha,2,202006,2,2,228
+739,83,M,Lakhdar ben Maria,2,204068,1,8,201
+740,100,M,Amine bou Ramzi,9,200399,2,3,47
+741,58,F,Yamina bel Maissa,8,204219,2,7,32
+742,46,F,Khaoula ould Hatem,5,201741,2,7,37
+743,38,M,Lakhdar ben Hatem,6,202097,2,2,274
+744,57,M,Mohammed bel Karima,4,204544,1,2,64
+745,38,F,Naoual bou Haitham,4,204371,1,9,8
+746,44,M,Imad bou Hakim,2,202887,2,6,520
+747,17,F,Loubna ben Nesrine,3,203905,2,2,56
+748,18,M,Abdel Allah ben Roumaissa,7,203912,1,9,223
+749,15,F,Yasmine ben Khadija,8,202267,1,3,36
+750,65,F,Yousra bel Kaddour,7,204219,2,1,18
+751,67,M,Dhiaa Eddine ould Juba,5,203660,1,6,62
+752,38,M,Akram ben Zolikha,7,204235,1,1,486
+753,26,M,Dhiaa Eddine bou Mohammed,1,202641,1,6,401
+754,76,M,Juba bel Saliha,5,201154,1,3,533
+755,69,M,Hakim bel Naoual,6,203152,1,6,79
+756,16,F,Nesrine bel Amina,7,203320,2,10,453
+757,40,F,Yasmine ben Haitham,9,202948,2,3,119
+758,26,F,Aicha ould Nesrine,8,200044,1,9,13
+759,47,M,Juba bel Dirar,10,204981,2,5,548
+760,91,F,Aicha bel Saleh,6,203769,2,5,134
+761,79,F,Lilya ould Farah,10,200118,2,2,333
+762,39,F,Melissa bou Younes,5,203871,2,2,205
+763,64,M,Ramzi ben Juba,5,200338,2,8,354
+764,87,F,Chaima ould Younes,7,204187,1,5,31
+765,30,F,Yasmine bou Zine Eddine,8,203805,2,5,265
+766,62,M,Sohaib bou Mokhtar,10,204938,2,3,294
+767,76,F,Foulla ben Loubna,3,204473,1,6,363
+768,82,M,Zine Eddine bel Youcef,5,204010,2,10,417
+769,98,M,Abdel Allah bel Abde Al Aziz,6,203073,1,10,304
+770,93,F,Aicha ben Khaoula,8,200806,1,8,522
+771,29,F,Yousra bou Omar,5,200963,1,6,541
+772,49,F,Roumaissa ben Roumaissa,5,201147,1,3,416
+773,46,M,Dirar bel Dhiaa Eddine,3,200597,2,7,95
+774,29,F,Mahdiya bou Zineb,10,201228,1,9,343
+775,23,F,Yousra bel Roumaissa,6,201024,1,7,94
+776,33,M,Sohaib ben Dhiaa Eddine,10,201957,1,1,119
+777,74,F,Saliha ould Khadija,10,200478,1,9,469
+778,49,F,Farah bou Haitham,4,203139,1,3,265
+779,45,F,Yasmine bel Allaa Eddine,9,200224,2,5,268
+780,100,M,Abde Al Aziz bel Zolikha,1,204917,2,10,414
+781,51,M,Omar ben Ahmed,8,204858,1,7,147
+782,45,F,Mahdiya ben Farah,7,203959,2,9,50
+783,52,M,Saleh ould Foulla,8,203154,1,5,465
+784,97,F,Feriel bou Allaa Eddine,1,204613,1,2,407
+785,50,M,Dirar bel Foulla,1,201271,1,9,528
+786,75,F,Zineb bel Feriel,2,202492,2,1,433
+787,23,F,Foulla ould Mohammed,4,204957,1,5,219
+788,70,M,Imad bel Yousra,1,203843,2,1,291
+789,50,F,Zineb ben Maissa,4,201561,1,4,251
+790,61,M,Amine bou Hatem,9,200908,2,8,398
+791,39,F,Roumaissa ould Saliha,10,200540,1,10,355
+792,84,M,Youcef bou Zineb,3,201332,2,1,236
+793,78,F,Feriel ben Imad,3,204193,1,5,11
+794,80,F,Zolikha ben Sahar,3,204138,2,1,211
+795,42,M,Juba ben Manel,6,200625,2,9,370
+796,76,M,Ramzi bou Yamina,1,200334,2,4,275
+797,73,F,Amina bou Chaima,1,201834,1,8,318
+798,60,M,Mouslim ben Loubna,10,202071,1,4,32
+799,31,M,Abdel Allah bel Malek,9,204092,2,6,474
+800,76,F,Maria bou Ramzi,7,203200,2,3,326
+801,89,F,Maissa ben Feriel,10,202244,2,10,5
+802,15,M,Mohammed ben Younes,9,202380,1,3,387
+803,92,F,Maria bou Mouslim,8,204258,1,4,8
+804,77,M,Hatem ould Omar,2,204112,2,8,533
+805,94,F,Farah bou Zine Eddine,2,203637,2,4,539
+806,65,M,Mokhtar bou Amina,3,204847,2,10,148
+807,100,F,Sara bel Lilya,5,202717,1,10,170
+808,18,F,Khadija bou Younes,9,204747,1,7,230
+809,15,F,Zineb bou Zineb,9,202540,1,7,107
+810,91,M,Hakim ben Dirar,2,202726,1,1,158
+811,29,F,Roumaissa ben Imad,5,200920,2,6,430
+812,33,F,Sahar ben Kaddour,3,204608,2,2,163
+813,32,M,Kaddour ben Ahmed,6,203932,2,5,64
+814,93,F,Zolikha bou Abde Al Bassit,1,201094,2,7,93
+815,100,F,Manel ould Mahdiya,2,203647,1,8,287
+816,98,M,Amine bel Zolikha,2,201161,2,2,234
+817,66,F,Khaoula bou Mouslim,3,204841,2,2,24
+818,50,M,Imad ould Abde Al Aziz,8,200897,2,10,245
+819,35,M,Dhiaa Eddine bel Feriel,5,204298,2,10,519
+820,17,M,Mouslim bel Khaoula,4,203742,2,7,21
+821,90,M,Mouslim ould Maissa,8,203589,2,7,203
+822,57,M,Oussama bel Melissa,1,204467,2,4,518
+823,19,M,Haitham bel Manel,9,201653,2,3,483
+824,81,F,Farah bel Mouslim,1,201466,1,5,178
+825,56,F,Karima ould Roumaissa,5,202858,1,7,143
+826,72,F,Chaima ben Sohaib,8,201800,2,8,135
+827,56,M,Lakhdar bel Lilya,10,200171,2,5,317
+828,66,F,Khadija bou Youcef,6,200384,2,3,304
+829,88,F,Roumaissa ben Amine,2,203719,2,1,440
+830,47,F,Lilya ould Aicha,10,203411,2,10,89
+831,49,F,Zineb bou Yousra,4,204782,2,3,200
+832,27,F,Khaoula ould Aicha,3,203718,2,9,350
+833,62,F,Zolikha bel Mahdiya,6,204013,2,10,108
+834,90,F,Roumaissa bel Sohaib,1,202049,2,4,490
+835,42,F,Zolikha bou Oussama,1,202226,1,5,80
+836,43,M,Sohaib ould Saliha,4,201627,2,1,78
+837,47,F,Farah bel Khaoula,2,202507,2,5,272
+838,84,F,Sahar bel Imad,7,201860,2,1,11
+839,18,F,Amina bou Kaddour,1,202658,1,2,168
+840,43,F,Amina ould Mohammed,5,200482,1,10,489
+841,88,M,Malek ben Zine Eddine,4,200369,1,5,191
+842,62,F,Sara bou Omar,1,200094,1,9,362
+843,95,M,Dirar ben Yasmine,5,204010,1,7,94
+844,50,M,Lakhdar ould Manel,4,200453,1,3,404
+845,78,F,Zineb ben Yamina,3,200377,1,4,57
+846,83,F,Yasmine ben Omar,1,201425,2,8,218
+847,91,M,Saleh ould Zine Eddine,4,204629,2,4,391
+848,32,F,Melissa bel Manel,5,202298,2,7,449
+849,87,M,Younes ben Foulla,10,203271,2,7,82
+850,23,F,Manel bel Amina,1,201888,2,3,173
+851,23,F,Farah ben Maria,2,202497,1,6,380
+852,23,M,Juba bou Maissa,4,200449,2,5,470
+853,53,M,Mokhtar bou Abde Al Bassit,4,202329,2,2,4
+854,25,F,Khaoula bel Ramzi,5,201114,1,3,526
+855,21,M,Ramzi ould Nesrine,10,202629,2,9,467
+856,100,F,Sara bel Melissa,5,204543,1,5,186
+857,80,F,Lilya ould Lilya,7,202749,2,3,214
+858,11,F,Lilya ould Zineb,6,200592,2,9,133
+859,56,M,Juba ould Maria,3,201965,1,1,483
+860,82,M,Omar bel Zine Eddine,7,203614,1,2,226
+861,63,F,Loubna bou Sahar,4,201133,1,8,322
+862,39,F,Roumaissa ould Aicha,8,201094,2,1,370
+863,81,F,Nesrine ould Chaima,5,202452,2,9,526
+864,91,F,Yasmine ould Mohammed,2,203514,1,5,58
+865,78,F,Maria bel Yousra,9,200957,2,6,311
+866,25,F,Saliha ould Yamina,2,204861,1,8,487
+867,49,F,Melissa bou Yasmine,3,201361,1,8,107
+868,37,F,Saliha bel Khaoula,5,200474,2,10,258
+869,13,F,Yousra ould Maissa,3,203157,2,2,266
+870,41,F,Zolikha bou Saliha,6,202344,2,2,470
+871,34,F,Zolikha ould Ahmed,1,200321,1,1,358
+872,81,M,Akram ben Juba,10,204281,2,9,488
+873,23,M,Lakhdar bou Allaa Eddine,2,204788,1,5,85
+874,73,F,Sara ould Ramzi,9,203338,2,6,104
+875,17,F,Naoual ben Ramzi,2,203206,2,9,368
+876,78,M,Mokhtar bel Imad,1,203119,2,3,105
+877,79,F,Zolikha bou Omar,8,203801,1,9,148
+878,59,F,Khadija ben Saliha,5,200557,2,2,533
+879,83,F,Yasmine ben Foulla,3,201795,1,3,428
+880,13,F,Foulla bel Maissa,8,204169,2,1,87
+881,71,M,Amine ould Mohammed,5,202785,2,1,444
+882,15,F,Khaoula ben Saliha,3,203683,2,8,52
+883,97,M,Omar bou Khaoula,1,202810,2,7,357
+884,70,M,Haitham ould Roumaissa,3,201188,1,6,310
+885,50,M,Dirar bou Saleh,8,200222,1,7,63
+886,49,F,Khadija bel Haitham,9,201550,1,10,330
+887,76,F,Yousra bel Imad,8,201750,2,3,544
+888,59,F,Farah bou Lakhdar,3,200417,1,9,9
+889,55,M,Younes bou Chaima,8,201565,2,7,402
+890,13,M,Omar ben Sohaib,5,201833,1,9,24
+891,48,F,Yasmine bou Abde Al Bassit,5,203001,1,8,482
+892,79,M,Abdel Allah ould Sohaib,5,204397,2,1,512
+893,49,M,Sohaib ould Lakhdar,10,202907,1,5,540
+894,40,F,Manel bel Akram,8,204103,2,4,426
+895,83,M,Amine ben Akram,7,203431,2,4,194
+896,73,M,Dhiaa Eddine bou Zineb,8,200895,1,9,438
+897,35,F,Saliha ould Abde Al Aziz,7,204514,1,10,236
+898,45,F,Melissa ben Nesrine,4,201949,1,7,231
+899,35,F,Sara ould Naoual,9,203722,1,1,424
+900,42,F,Feriel ben Yasmine,4,204574,2,9,20
+901,27,F,Yasmine bou Saleh,10,203624,2,1,510
+902,23,F,Lilya ben Manel,4,202518,2,10,33
+903,73,M,Ramzi ben Sahar,8,204093,1,4,253
+904,87,F,Saliha ben Amina,3,201700,1,3,299
+905,73,M,Mohammed bel Ramzi,7,203431,2,3,208
+906,49,F,Roumaissa ben Foulla,8,202152,1,3,216
+907,41,F,Foulla ben Mokhtar,3,202448,1,5,319
+908,64,M,Oussama ben Amina,5,200879,2,8,59
+909,50,F,Aicha ben Aicha,4,200733,2,4,134
+910,76,M,Saleh bou Yasmine,2,201344,2,9,314
+911,34,M,Mohammed ben Imad,8,203123,1,6,168
+912,74,M,Mohammed ben Kaddour,6,202368,1,8,248
+913,80,F,Khaoula bou Oussama,1,203751,2,2,81
+914,91,M,Sohaib ould Abdel Allah,8,202364,1,10,380
+915,67,F,Lilya bel Maria,10,203392,1,6,117
+916,95,F,Maissa bou Abde Al Aziz,3,201157,2,7,147
+917,72,M,Omar bel Abdel Allah,7,201969,2,1,442
+918,64,M,Hatem bel Ahmed,7,201047,1,3,64
+919,88,M,Hatem bel Juba,5,204677,2,2,406
+920,15,M,Mokhtar bel Juba,2,203497,1,5,76
+921,44,F,Karima ould Saliha,10,204467,2,2,170
+922,12,M,Mohammed ben Roumaissa,6,202669,1,2,10
+923,47,F,Zolikha ould Feriel,6,201855,2,9,345
+924,54,M,Akram ould Sara,6,203931,1,3,168
+925,11,F,Sahar ould Karima,10,202382,2,4,390
+926,34,M,Hakim ben Mahdiya,6,201075,2,3,123
+927,52,M,Mohammed bel Imad,10,203536,1,4,496
+928,77,F,Zineb bel Feriel,3,203546,2,7,267
+929,62,M,Dirar bou Allaa Eddine,1,202495,2,8,306
+930,99,M,Oussama bou Oussama,6,202425,2,9,484
+931,26,F,Manel bou Lilya,6,203826,1,1,191
+932,41,M,Abdel Allah bel Lilya,8,204664,1,6,246
+933,88,M,Mokhtar ould Sahar,1,204641,1,7,414
+934,76,M,Mouslim ben Abde Al Bassit,7,201065,2,7,129
+935,66,M,Youcef ben Kaddour,7,200831,1,3,328
+936,47,M,Akram bou Saleh,6,204698,2,7,462
+937,24,M,Juba bel Hatem,4,202532,2,6,213
+938,12,M,Malek ben Hatem,3,201117,2,4,182
+939,70,M,Allaa Eddine bel Ahmed,4,201028,1,7,428
+940,47,F,Karima ould Lakhdar,3,202818,2,9,479
+941,71,M,Younes bel Oussama,10,202603,1,8,496
+942,14,F,Aicha ould Nesrine,9,201801,2,2,516
+943,94,M,Allaa Eddine bou Hakim,1,201308,1,3,390
+944,100,M,Dhiaa Eddine bou Sahar,6,201314,2,2,511
+945,24,M,Hakim bou Ramzi,4,203812,2,4,157
+946,85,F,Roumaissa bou Imad,5,200014,1,8,354
+947,51,F,Loubna bou Allaa Eddine,5,204843,1,3,155
+948,29,F,Khadija ben Khadija,10,201235,2,5,472
+949,82,M,Younes bou Khadija,6,201559,1,4,525
+950,57,F,Mahdiya bel Oussama,3,202664,2,5,495
+951,70,F,Lilya ben Hatem,7,204265,1,5,342
+952,32,F,Melissa bel Feriel,4,203903,2,6,541
+953,51,M,Imad bel Haitham,10,201549,2,7,353
+954,94,F,Roumaissa bou Ramzi,5,204132,2,4,274
+955,10,M,Zine Eddine ould Mohammed,8,202433,1,6,509
+956,24,F,Yamina ben Zolikha,9,203455,1,10,527
+957,61,F,Aicha ould Hakim,9,204311,2,8,380
+958,99,F,Roumaissa ben Naoual,1,201192,1,6,323
+959,57,F,Khadija bel Zine Eddine,8,203543,1,9,232
+960,39,F,Naoual bel Mohammed,9,200706,1,10,357
+961,83,F,Yousra ould Saleh,2,200910,2,10,247
+962,62,F,Yasmine bel Youcef,1,201549,1,10,213
+963,65,F,Foulla bou Sahar,9,201096,1,9,417
+964,28,F,Manel bou Chaima,2,203352,1,8,472
+965,45,F,Nesrine bou Ramzi,6,201197,1,5,423
+966,60,M,Amine bel Dhiaa Eddine,3,204971,2,1,108
+967,65,M,Omar ben Kaddour,9,203519,2,2,384
+968,45,F,Khadija bel Lakhdar,6,201409,1,8,293
+969,41,F,Farah ould Yousra,9,203232,2,8,404
+970,67,M,Ahmed ould Nesrine,10,200879,1,3,190
+971,62,M,Mokhtar ben Zolikha,2,200797,1,9,510
+972,88,M,Oussama ould Hakim,5,201385,1,10,255
+973,59,F,Feriel bel Akram,10,201887,1,5,381
+974,56,F,Sara ould Feriel,3,201641,2,2,28
+975,53,F,Khadija bel Zine Eddine,7,201299,1,8,281
+976,41,F,Feriel bel Zine Eddine,6,201643,1,7,150
+977,77,M,Hatem bou Foulla,6,202496,1,6,103
+978,59,F,Aicha ould Lakhdar,9,201077,2,6,89
+979,33,F,Lilya bel Saliha,1,203725,1,7,259
+980,83,F,Manel bel Saleh,1,203153,2,6,231
+981,11,M,Dhiaa Eddine bou Abdel Allah,10,200629,2,8,43
+982,30,M,Mokhtar bel Malek,8,200490,2,2,213
+983,98,F,Loubna bou Aicha,5,203089,2,2,300
+984,49,M,Abdel Allah ben Malek,5,202632,2,6,353
+985,19,F,Feriel ould Imad,8,203433,2,7,291
+986,70,M,Zine Eddine bel Akram,9,203496,1,10,153
+987,91,F,Lilya ben Ahmed,4,204686,1,5,47
+988,21,F,Loubna bou Allaa Eddine,10,202773,1,7,176
+989,73,F,Yousra ould Haitham,7,201000,1,8,316
+990,99,F,Loubna bou Khadija,10,202362,1,3,64
+991,70,M,Allaa Eddine ould Imad,1,200994,2,5,231
+992,68,F,Manel bel Sahar,2,202897,1,10,511
+993,66,M,Saleh bel Chaima,9,203703,2,6,77
+994,29,M,Abdel Allah bel Mahdiya,4,201680,2,4,490
+995,58,F,Yamina bou Abde Al Aziz,4,202710,1,8,390
+996,52,F,Sahar ould Aicha,7,202407,2,1,184
+997,42,M,Younes ould Amine,10,200201,2,10,354
+998,72,F,Zolikha ben Melissa,2,203612,2,8,109
+999,79,M,Zine Eddine ben Abde Al Aziz,6,201604,2,3,266
+1000,91,M,Hatem ben Maissa,5,204193,1,6,341
+1001,16,F,Sahar ould Mahdiya,5,200052,1,4,445
+1002,13,M,Mouslim bel Dhiaa Eddine,6,201808,1,5,437
+1003,52,F,Amina bou Kaddour,5,202631,1,8,509
+1004,20,M,Abdel Allah ould Malek,7,202846,2,9,66
+1005,47,M,Mouslim ould Imad,2,201304,1,5,543
+1006,21,F,Sara ben Akram,4,204147,1,8,39
+1007,36,F,Khaoula ould Mahdiya,7,203201,1,5,465
+1008,84,M,Amine ould Mohammed,7,200155,2,10,295
+1009,13,M,Akram bel Allaa Eddine,2,200547,1,4,257
+1010,52,M,Younes bel Ramzi,4,202692,1,8,125
+1011,20,F,Khaoula ould Malek,5,203031,2,2,320
+1012,36,M,Juba bou Dirar,3,200587,2,10,180
+1013,28,F,Yousra ben Abde Al Aziz,2,203271,2,4,317
+1014,46,F,Sara bel Yamina,3,201117,1,7,433
+1015,21,F,Yousra ould Hatem,8,200843,2,2,311
+1016,100,F,Zineb ben Allaa Eddine,1,200756,1,5,144
+1017,77,M,Malek bel Omar,5,201389,1,9,128
+1018,48,M,Sohaib ben Amine,1,200513,1,3,350
+1019,74,F,Mahdiya bou Khadija,1,200385,2,4,172
+1020,13,M,Ramzi bel Saliha,4,203810,1,5,58
+1021,50,F,Loubna bel Saleh,4,204599,1,4,192
+1022,47,M,Juba bou Youcef,10,203832,2,8,274
+1023,67,F,Yasmine ben Maissa,10,204348,2,10,137
+1024,42,F,Sahar ben Juba,4,200764,2,7,276
+1025,17,M,Ahmed ould Mokhtar,10,204470,2,2,341
+1026,69,M,Ahmed bou Roumaissa,6,202790,1,10,173
+1027,34,M,Mouslim ben Sara,4,201166,2,7,27
+1028,82,F,Maissa ould Yasmine,7,204387,2,2,534
+1029,69,F,Nesrine ben Loubna,2,203631,1,8,316
+1030,36,M,Omar ben Khaoula,2,201585,1,7,22
+1031,89,F,Manel ould Ramzi,10,200381,1,4,481
+1032,46,M,Abdel Allah ould Ahmed,4,202797,2,10,121
+1033,38,F,Chaima bou Karima,5,201646,2,9,186
+1034,72,F,Zolikha ould Yamina,10,202495,2,10,543
+1035,43,F,Aicha ben Yamina,4,204547,1,8,121
+1036,66,M,Amine bel Yasmine,7,200740,2,7,381
+1037,11,F,Yasmine bel Mohammed,5,202829,2,1,262
+1038,62,M,Hakim ben Mokhtar,4,201649,2,10,364
+1039,96,F,Lilya ben Mouslim,7,202885,2,5,254
+1040,37,F,Nesrine bou Mahdiya,8,202200,2,10,285
+1041,93,M,Haitham bel Foulla,9,203312,2,7,270
+1042,27,M,Kaddour ben Amine,7,204099,1,9,61
+1043,71,F,Yasmine ben Sohaib,4,202374,2,10,64
+1044,82,F,Foulla ould Sahar,4,200755,2,3,242
+1045,95,M,Allaa Eddine ben Dhiaa Eddine,5,201508,2,1,517
+1046,30,F,Zolikha bel Zineb,2,203389,2,2,233
+1047,76,F,Loubna ben Zineb,9,201799,2,4,202
+1048,15,F,Feriel ould Haitham,4,201130,1,10,391
+1049,41,M,Saleh bel Loubna,7,203797,1,4,523
+1050,47,M,Ramzi bel Kaddour,9,202088,2,10,286
+1051,12,F,Chaima bou Yamina,9,202354,2,3,81
+1052,61,F,Chaima ould Zolikha,9,204155,2,8,295
+1053,50,F,Manel ben Melissa,4,201314,1,4,422
+1054,47,F,Sara bou Khaoula,7,204763,2,2,338
+1055,55,M,Juba bel Yousra,6,201204,1,1,197
+1056,34,M,Oussama bel Hatem,1,201202,2,6,355
+1057,84,F,Foulla bel Chaima,8,202206,1,2,137
+1058,22,M,Mokhtar ben Malek,3,204746,2,1,306
+1059,66,F,Foulla ould Hatem,7,200258,1,7,515
+1060,61,M,Ramzi ould Abde Al Aziz,10,203961,2,2,427
+1061,93,M,Allaa Eddine bel Zolikha,8,202675,2,9,428
+1062,16,M,Mohammed bel Khaoula,2,203925,1,2,156
+1063,51,F,Yamina bou Yamina,6,200931,1,1,285
+1064,48,M,Abde Al Aziz ben Foulla,5,203742,1,7,403
+1065,32,F,Manel ould Oussama,4,201360,1,4,431
+1066,49,M,Zine Eddine ben Maissa,10,201871,2,9,185
+1067,37,F,Feriel bel Zineb,7,204720,1,1,432
+1068,57,F,Chaima ould Yamina,4,201328,1,7,205
+1069,69,F,Khaoula ould Kaddour,4,201569,2,7,246
+1070,83,F,Loubna ben Sara,3,204143,2,8,411
+1071,71,M,Ramzi bou Saliha,5,200022,1,7,499
+1072,54,F,Naoual bou Maissa,7,204794,2,9,49
+1073,16,M,Younes ould Mokhtar,9,203506,1,9,58
+1074,63,F,Foulla ben Maissa,8,202599,2,8,120
+1075,73,M,Zine Eddine bou Ramzi,2,204287,1,8,95
+1076,81,F,Naoual ould Zolikha,2,202234,1,5,479
+1077,20,F,Sara bou Mahdiya,5,201584,2,1,88
+1078,14,M,Haitham ben Saliha,7,204999,1,1,450
+1079,57,F,Lilya bel Yasmine,8,203354,2,4,180
+1080,54,F,Farah bel Saleh,10,203722,2,5,56
+1081,66,M,Sohaib bel Hakim,6,204807,2,7,454
+1082,53,F,Zolikha bel Amine,1,203738,1,6,168
+1083,39,F,Khadija ben Youcef,7,200154,1,4,445
+1084,13,F,Khadija ould Yasmine,10,202213,2,9,83
+1085,92,F,Nesrine ben Abde Al Bassit,4,202903,1,4,363
+1086,24,M,Oussama bel Feriel,4,202186,2,10,201
+1087,12,M,Juba ould Naoual,2,204408,1,4,124
+1088,92,F,Karima ould Younes,6,203697,2,10,434
+1089,56,F,Lilya bou Sohaib,2,200919,2,1,132
+1090,84,M,Allaa Eddine ould Maria,9,203147,2,7,132
+1091,41,M,Dirar bou Naoual,9,204222,2,5,259
+1092,97,F,Manel ben Karima,1,203156,2,6,331
+1093,61,M,Abde Al Bassit bel Farah,4,201122,2,8,79
+1094,30,M,Dirar ould Saliha,3,202863,2,6,468
+1095,84,F,Sara bou Youcef,3,203054,2,5,523
+1096,84,F,Zineb bou Hakim,2,203056,2,7,126
+1097,97,F,Khadija ould Chaima,9,203159,2,5,179
+1098,91,M,Abdel Allah ould Khaoula,4,203547,2,6,266
+1099,35,M,Allaa Eddine bou Amina,1,204380,1,9,48
+1100,30,F,Mahdiya bel Dhiaa Eddine,6,200454,2,4,169
+1101,36,F,Maria ben Haitham,5,202812,1,8,342
+1102,85,M,Allaa Eddine bel Foulla,2,200731,2,1,270
+1103,46,F,Khaoula ould Ramzi,4,203578,2,4,110
+1104,51,F,Chaima ould Foulla,2,200514,2,7,419
+1105,10,M,Saleh ould Ramzi,3,201231,2,2,287
+1106,53,M,Abde Al Bassit bou Sohaib,8,201084,2,9,445
+1107,32,F,Loubna ben Maissa,4,202904,2,2,82
+1108,74,M,Abde Al Bassit bel Saliha,2,204550,1,8,271
+1109,65,F,Saliha ben Lilya,10,200793,2,4,186
+1110,43,F,Feriel ben Chaima,4,204019,1,9,260
+1111,91,F,Mahdiya bou Roumaissa,7,202981,1,1,547
+1112,95,F,Saliha ben Melissa,6,202586,2,6,265
+1113,56,M,Youcef bou Saliha,2,202471,2,10,446
+1114,97,M,Lakhdar bel Amina,3,200361,2,8,5
+1115,36,M,Abde Al Bassit bel Roumaissa,1,200341,1,1,303
+1116,47,F,Yasmine bel Khaoula,1,200238,2,8,51
+1117,54,M,Dirar bel Malek,10,204505,1,9,439
+1118,28,F,Nesrine ben Yousra,1,200689,1,10,51
+1119,10,M,Abdel Allah bou Hatem,7,200289,1,3,48
+1120,24,F,Chaima ben Oussama,6,204674,2,7,313
+1121,100,F,Chaima ben Imad,6,201299,2,5,450
+1122,96,F,Farah bou Allaa Eddine,2,202129,1,4,473
+1123,12,F,Feriel bel Haitham,5,201829,2,10,338
+1124,41,M,Hatem bou Kaddour,9,202521,2,7,228
+1125,29,F,Feriel bou Abde Al Aziz,7,201147,1,2,277
+1126,31,M,Haitham bou Mohammed,8,204518,2,9,291
+1127,26,F,Yasmine ben Akram,5,200228,2,4,173
+1128,64,F,Maissa bou Yousra,9,201788,1,1,212
+1129,56,F,Khadija ben Juba,8,201698,2,10,464
+1130,75,F,Maria ould Khaoula,8,201108,1,9,182
+1131,53,M,Dhiaa Eddine bel Sohaib,3,201160,1,10,45
+1132,34,F,Roumaissa ould Sahar,7,203977,2,4,376
+1133,79,F,Foulla ben Zine Eddine,5,204881,2,4,360
+1134,11,M,Omar ben Karima,2,200434,1,10,40
+1135,38,F,Farah bou Lakhdar,1,202838,2,4,263
+1136,18,F,Sara bou Roumaissa,4,203908,1,1,327
+1137,24,F,Karima ould Sahar,1,203020,1,2,306
+1138,58,M,Mokhtar bou Dirar,2,201132,2,6,25
+1139,76,F,Naoual bel Mokhtar,7,202973,2,5,476
+1140,28,F,Lilya bel Ahmed,9,204842,2,3,422
+1141,75,F,Lilya ben Malek,9,200580,1,3,262
+1142,20,M,Ramzi bou Khadija,8,202612,2,2,227
+1143,84,F,Amina ben Allaa Eddine,6,201783,1,10,153
+1144,37,F,Sahar ould Allaa Eddine,7,202996,2,9,269
+1145,34,M,Saleh bel Youcef,6,201839,2,3,188
+1146,76,F,Zineb ould Yasmine,5,200618,1,8,205
+1147,67,M,Mokhtar bel Abde Al Bassit,6,203378,1,7,149
+1148,34,F,Saliha bel Mohammed,4,203991,2,8,459
+1149,69,M,Hakim bel Youcef,8,200086,1,4,502
+1150,96,F,Yasmine ould Zine Eddine,8,201692,2,2,499
+1151,28,F,Yamina ould Loubna,5,201804,1,8,285
+1152,89,M,Oussama bou Ramzi,3,201696,1,7,430
+1153,10,F,Yousra bou Younes,8,200154,1,1,230
+1154,69,M,Lakhdar bel Yamina,6,201328,1,5,300
+1155,47,F,Feriel ben Naoual,1,203739,1,10,448
+1156,32,F,Sara bou Dhiaa Eddine,8,204037,1,8,542
+1157,92,F,Khadija ould Melissa,7,201018,2,4,436
+1158,65,F,Loubna bel Lakhdar,10,203431,1,7,104
+1159,45,M,Abde Al Bassit bel Sohaib,9,204704,1,4,221
+1160,69,F,Zineb bou Maissa,2,202566,2,8,336
+1161,62,F,Aicha ben Zolikha,7,204561,1,3,155
+1162,92,M,Saleh bou Chaima,8,204534,1,4,373
+1163,33,F,Melissa bou Sohaib,3,200613,2,1,460
+1164,81,F,Sahar bel Sohaib,3,203236,1,5,385
+1165,11,M,Hakim bou Lilya,4,201536,1,10,540
+1166,25,M,Hatem bel Oussama,10,204629,2,5,282
+1167,24,M,Younes bou Mouslim,6,204054,2,8,222
+1168,17,M,Allaa Eddine ben Saleh,9,204193,1,4,163
+1169,63,M,Abde Al Bassit bou Sara,6,201849,1,2,433
+1170,20,M,Lakhdar ben Abde Al Bassit,8,202214,1,2,406
+1171,59,M,Younes ould Abde Al Aziz,5,201641,1,10,297
+1172,88,M,Juba bou Oussama,7,201437,2,10,117
+1173,83,F,Khaoula bel Lakhdar,8,202104,1,7,515
+1174,68,F,Foulla ould Foulla,2,200144,2,10,430
+1175,13,M,Ramzi bou Lakhdar,4,200765,2,3,417
+1176,85,F,Maria ould Mahdiya,9,203318,1,10,192
+1177,49,M,Malek ould Karima,7,203143,1,5,431
+1178,59,M,Oussama bel Mahdiya,3,202987,2,7,343
+1179,53,M,Lakhdar bou Lakhdar,9,202709,2,4,41
+1180,29,F,Roumaissa bel Zineb,10,201052,1,1,187
+1181,48,F,Maria bou Haitham,5,203475,2,1,440
+1182,17,F,Aicha ould Imad,8,202612,2,3,192
+1183,65,F,Manel ben Mokhtar,4,201586,2,9,239
+1184,60,F,Mahdiya bou Zolikha,8,201770,2,4,28
+1185,83,F,Maria ben Mohammed,7,200288,1,4,327
+1186,96,M,Kaddour bel Zine Eddine,6,203223,2,7,492
+1187,93,M,Youcef ould Loubna,3,204330,2,9,452
+1188,76,F,Zineb ould Maria,2,200674,2,10,92
+1189,19,M,Haitham bel Omar,2,204264,1,5,274
+1190,92,F,Mahdiya bou Melissa,8,203277,1,3,396
+1191,87,M,Kaddour bel Yamina,4,204800,1,7,102
+1192,32,M,Abde Al Aziz bou Haitham,5,203609,1,5,530
+1193,79,M,Hakim bou Lilya,7,202103,2,4,449
+1194,49,F,Naoual bou Mokhtar,3,204964,1,10,44
+1195,68,F,Khadija ould Nesrine,4,202983,1,2,172
+1196,25,F,Loubna bou Haitham,7,202296,1,2,231
+1197,96,F,Sara ben Zineb,5,202311,2,5,66
+1198,43,M,Ramzi bel Khaoula,1,204576,1,10,509
+1199,62,F,Maria bou Zine Eddine,6,202422,2,2,120
+1200,23,F,Maria bel Lilya,10,200311,1,4,51
+1201,99,M,Sohaib bel Yousra,9,200814,2,1,305
+1202,27,M,Omar ben Lakhdar,1,202088,2,4,442
+1203,19,F,Saliha ben Khadija,10,204708,2,4,273
+1204,28,M,Mokhtar bel Maissa,5,200451,2,1,548
+1205,50,M,Dhiaa Eddine bou Farah,2,202702,1,9,360
+1206,68,F,Maria bel Allaa Eddine,9,204715,1,7,58
+1207,50,M,Ahmed ben Maria,3,203820,1,2,154
+1208,35,F,Mahdiya bel Allaa Eddine,2,201663,2,4,32
+1209,55,M,Omar bou Dirar,10,203995,2,9,378
+1210,53,F,Karima bou Ahmed,8,201505,2,3,112
+1211,15,M,Younes ould Abdel Allah,7,201023,1,4,330
+1212,39,M,Zine Eddine bou Zineb,2,203146,1,1,109
+1213,33,M,Amine ben Mohammed,7,200550,2,6,191
+1214,83,F,Zineb ben Chaima,4,202811,2,8,205
+1215,50,M,Imad ben Abdel Allah,9,200756,2,4,185
+1216,21,M,Mohammed ould Foulla,10,201420,1,8,342
+1217,94,M,Allaa Eddine ould Chaima,3,203519,1,4,394
+1218,21,M,Kaddour bou Yasmine,9,202640,1,5,349
+1219,56,F,Roumaissa ould Juba,8,204764,1,8,85
+1220,14,F,Sahar bel Melissa,3,200376,2,7,360
+1221,18,M,Omar ould Mahdiya,2,203819,2,6,284
+1222,91,M,Malek bel Youcef,5,201187,2,8,172
+1223,38,M,Mohammed bou Zolikha,7,203007,2,4,149
+1224,93,F,Nesrine bel Sahar,4,204296,2,6,317
+1225,59,M,Oussama ben Mahdiya,3,200525,1,8,8
+1226,13,F,Lilya bou Akram,6,204992,2,2,35
+1227,81,M,Saleh bel Sahar,6,201624,1,8,121
+1228,54,F,Melissa ben Imad,4,202160,1,8,359
+1229,90,F,Yamina bel Haitham,2,200598,2,4,464
+1230,79,F,Aicha bou Amine,8,201106,1,3,374
+1231,81,F,Khaoula ben Kaddour,1,204898,1,8,233
+1232,88,M,Juba bou Maissa,8,203657,2,3,63
+1233,26,M,Zine Eddine ould Khaoula,9,203360,1,7,54
+1234,43,F,Yousra bou Oussama,9,201217,2,3,435
+1235,56,M,Mokhtar ben Farah,10,203449,2,7,464
+1236,65,M,Ahmed ould Dirar,3,201140,1,2,60
+1237,98,F,Farah bou Mahdiya,7,200915,2,5,478
+1238,99,F,Khaoula ould Zine Eddine,5,204130,2,6,368
+1239,87,F,Melissa ould Yousra,10,203672,2,9,156
+1240,92,M,Abde Al Bassit ould Abdel Allah,5,200025,2,9,450
+1241,98,M,Mouslim ould Hatem,8,200194,1,8,298
+1242,17,F,Feriel ould Ramzi,8,204900,1,1,343
+1243,98,F,Maissa ben Ahmed,5,204008,2,5,38
+1244,14,F,Lilya bou Maria,6,201231,1,6,328
+1245,14,M,Abdel Allah ould Saleh,4,202595,1,6,19
+1246,36,M,Allaa Eddine ben Maissa,5,204067,2,4,375
+1247,17,M,Younes bou Akram,1,201028,1,8,226
+1248,80,F,Amina bou Hakim,3,204328,2,8,124
+1249,69,M,Hatem ben Saleh,4,201705,1,7,16
+1250,86,F,Karima ben Abdel Allah,1,204929,2,7,8
+1251,44,F,Chaima ben Chaima,7,204463,1,4,292
+1252,54,M,Kaddour bou Abde Al Aziz,7,201543,2,6,251
+1253,40,M,Omar bel Farah,1,202611,1,2,390
+1254,45,M,Sohaib ould Naoual,5,202416,1,4,199
+1255,20,M,Sohaib ben Yasmine,9,204463,2,3,508
+1256,40,F,Khaoula ould Mahdiya,5,201538,1,6,299
+1257,96,M,Dirar ben Abde Al Bassit,6,204556,1,1,338
+1258,52,M,Younes bel Dhiaa Eddine,6,200326,1,10,49
+1259,65,F,Khadija ben Sahar,9,202857,2,1,352
+1260,46,F,Maissa bou Younes,2,202369,1,10,51
+1261,12,M,Mohammed bel Sara,5,202118,1,3,472
+1262,94,M,Haitham ould Zine Eddine,9,200726,2,2,283
+1263,41,F,Sahar bou Hatem,10,201022,1,6,340
+1264,55,F,Maria ben Naoual,2,202616,2,1,15
+1265,91,M,Amine bou Abdel Allah,9,201546,1,6,167
+1266,22,M,Oussama bou Loubna,6,202690,2,10,195
+1267,89,M,Mohammed ould Ahmed,10,203113,2,7,388
+1268,41,F,Melissa bou Saleh,2,201853,1,8,201
+1269,80,F,Foulla ben Lakhdar,2,202557,1,5,17
+1270,37,M,Dhiaa Eddine bou Roumaissa,3,202847,1,4,539
+1271,49,F,Zineb bou Manel,7,204416,2,9,236
+1272,35,F,Aicha ould Loubna,2,202542,1,4,530
+1273,80,F,Yamina bel Khaoula,7,200856,2,10,221
+1274,100,F,Khaoula bou Kaddour,10,202143,1,4,435
+1275,63,M,Mouslim ould Imad,10,204520,2,8,507
+1276,30,F,Naoual ould Omar,6,201864,1,5,508
+1277,81,F,Nesrine ben Chaima,3,203174,1,1,84
+1278,18,M,Lakhdar ben Dirar,7,201662,2,4,284
+1279,82,F,Khaoula ould Mahdiya,3,200005,1,3,152
+1280,55,M,Omar bou Omar,1,203026,2,7,132
+1281,83,F,Maissa bou Malek,6,203824,2,4,419
+1282,67,F,Loubna ould Hatem,3,200085,2,6,152
+1283,46,F,Naoual bel Imad,9,204028,1,6,356
+1284,97,F,Amina bel Naoual,1,202152,2,6,352
+1285,70,F,Yasmine ben Saliha,4,203576,2,7,485
+1286,11,M,Imad ould Hatem,1,202036,2,7,147
+1287,92,F,Manel ould Haitham,10,202558,1,10,280
+1288,45,M,Lakhdar bou Mouslim,8,203538,2,1,357
+1289,30,F,Maria ould Hakim,5,200890,1,7,282
+1290,77,F,Roumaissa bel Ramzi,10,201635,2,8,56
+1291,89,M,Younes bou Kaddour,4,201289,1,2,380
+1292,99,M,Mohammed ould Haitham,10,202657,1,8,239
+1293,20,M,Ramzi ould Abde Al Bassit,6,203373,1,5,370
+1294,84,M,Youcef ben Abde Al Bassit,9,203858,1,2,38
+1295,74,M,Mouslim bou Lakhdar,7,203056,1,8,532
+1296,93,M,Haitham bou Ahmed,7,203405,1,3,187
+1297,95,F,Naoual ould Zine Eddine,8,200546,1,6,116
+1298,63,F,Saliha ben Saleh,5,204711,2,6,371
+1299,77,F,Farah ould Yousra,3,204237,1,2,394
+1300,22,F,Manel ould Juba,2,200723,2,1,53
+1301,15,F,Saliha ould Amina,10,203738,1,4,102
+1302,75,F,Zolikha bou Mahdiya,2,201463,2,10,436
+1303,25,M,Hatem bel Farah,9,201103,1,4,221
+1304,47,F,Naoual bel Yamina,8,202863,1,8,450
+1305,99,F,Maria bel Loubna,6,201778,2,5,19
+1306,45,M,Juba bel Aicha,5,202071,2,3,76
+1307,56,M,Malek ben Mahdiya,10,200038,1,10,65
+1308,26,F,Saliha ould Feriel,4,202934,2,6,418
+1309,98,F,Manel ben Malek,10,202644,1,10,259
+1310,43,M,Kaddour bou Sahar,10,200358,1,9,82
+1311,29,M,Lakhdar bou Abde Al Bassit,10,204043,2,4,3
+1312,79,F,Maissa ould Maissa,1,202173,2,1,82
+1313,44,F,Yasmine bel Mohammed,2,203189,2,8,1
+1314,35,M,Abdel Allah bou Khaoula,1,201533,1,2,13
+1315,45,F,Amina bou Khaoula,10,201297,1,6,197
+1316,55,F,Nesrine bel Oussama,9,203322,2,3,171
+1317,66,F,Maissa bou Naoual,3,201766,2,5,228
+1318,15,M,Abde Al Aziz ben Sohaib,10,204129,2,10,454
+1319,61,M,Dhiaa Eddine ben Lilya,6,200635,2,6,394
+1320,18,M,Amine bel Manel,6,200929,2,8,43
+1321,21,M,Ramzi ould Khaoula,9,200712,2,9,188
+1322,15,M,Imad ben Allaa Eddine,1,203475,2,1,80
+1323,24,F,Yousra bel Sohaib,2,200790,1,10,28
+1324,53,M,Ramzi bel Nesrine,1,202275,2,10,484
+1325,25,M,Allaa Eddine bel Maria,6,204849,2,6,394
+1326,90,M,Dhiaa Eddine ould Zolikha,9,201831,2,7,106
+1327,82,F,Zolikha ould Sahar,7,200642,1,5,488
+1328,14,M,Abde Al Aziz ben Mohammed,5,202047,2,9,183
+1329,53,F,Yousra bel Abde Al Bassit,6,201734,1,8,362
+1330,16,F,Saliha bou Amine,3,202162,1,5,170
+1331,52,F,Manel bou Saliha,5,200848,1,7,107
+1332,34,M,Dirar bel Zineb,3,202744,2,5,409
+1333,85,F,Lilya ben Sohaib,9,201285,2,1,234
+1334,79,F,Naoual bel Allaa Eddine,6,203238,2,2,182
+1335,18,M,Abdel Allah ould Zine Eddine,9,201483,2,8,398
+1336,74,M,Amine bel Allaa Eddine,7,201272,1,5,488
+1337,61,F,Manel ben Zine Eddine,6,202000,2,6,125
+1338,64,M,Younes bel Roumaissa,8,201700,2,3,436
+1339,88,M,Zine Eddine ben Khaoula,3,204621,2,4,416
+1340,52,F,Khadija bel Melissa,10,202666,1,4,539
+1341,31,M,Kaddour bel Kaddour,9,200558,2,1,427
+1342,33,F,Naoual bou Imad,5,204967,1,9,497
+1343,49,M,Hakim ben Hatem,4,201527,1,4,48
+1344,27,M,Malek ben Zine Eddine,8,204913,1,8,246
+1345,39,F,Lilya ould Oussama,4,203917,2,8,73
+1346,92,M,Abdel Allah ould Foulla,3,201310,2,6,474
+1347,26,F,Zineb ben Melissa,3,201870,2,2,294
+1348,40,F,Zineb ben Allaa Eddine,6,203858,2,2,121
+1349,94,F,Loubna bou Hakim,5,201121,2,7,79
+1350,63,M,Kaddour ould Naoual,4,201388,1,8,300
+1351,30,M,Sohaib bel Imad,8,204941,1,6,110
+1352,81,F,Zolikha ould Mahdiya,6,203301,1,3,312
+1353,45,F,Naoual bou Sahar,5,202692,1,1,278
+1354,11,F,Zolikha ben Mouslim,7,200308,2,9,271
+1355,29,F,Chaima bel Malek,3,201606,2,6,457
+1356,14,M,Mouslim bel Mahdiya,1,201622,1,2,200
+1357,18,F,Zineb bel Amina,1,202836,2,1,217
+1358,95,F,Loubna ould Melissa,7,200626,1,10,360
+1359,42,F,Aicha ben Yousra,5,202076,2,6,514
+1360,17,F,Lilya bou Dirar,2,203334,2,2,512
+1361,75,F,Foulla bel Hakim,3,200931,1,2,244
+1362,65,M,Allaa Eddine bel Lilya,3,202992,2,8,398
+1363,32,F,Loubna ben Younes,6,200056,1,1,357
+1364,80,F,Aicha bou Dhiaa Eddine,2,202232,1,7,146
+1365,61,F,Nesrine bel Youcef,3,203329,2,5,476
+1366,15,F,Yasmine ould Zine Eddine,9,204165,1,3,53
+1367,35,M,Juba bel Ramzi,1,203990,1,2,130
+1368,21,M,Abde Al Bassit bou Saleh,2,204044,2,5,173
+1369,87,M,Dhiaa Eddine bou Roumaissa,9,203589,2,6,214
+1370,49,F,Roumaissa bel Saliha,7,202884,2,9,220
+1371,86,M,Ahmed bou Dhiaa Eddine,5,201924,2,5,80
+1372,81,F,Maria ben Maria,4,204366,1,9,548
+1373,24,F,Naoual ould Imad,5,201226,2,8,94
+1374,37,M,Hatem ben Dirar,1,201980,2,6,45
+1375,80,F,Yousra ould Amine,1,202423,2,5,106
+1376,41,F,Lilya ben Amine,5,202475,2,2,61
+1377,19,M,Mouslim ould Zine Eddine,1,201264,2,3,502
+1378,54,F,Yasmine ben Juba,2,200566,1,6,476
+1379,15,F,Nesrine ould Mahdiya,5,200975,2,8,392
+1380,40,M,Younes ben Juba,8,203456,1,7,296
+1381,28,F,Khaoula ben Ahmed,5,203284,1,10,97
+1382,17,F,Sahar ould Mouslim,6,201590,2,2,84
+1383,95,M,Akram bel Juba,1,201337,1,8,184
+1384,57,M,Malek bel Foulla,10,203254,1,8,502
+1385,25,M,Abdel Allah ben Zolikha,4,200108,2,1,509
+1386,49,F,Yasmine bel Dirar,2,203384,1,1,28
+1387,10,F,Lilya ben Hakim,3,204123,2,2,339
+1388,14,F,Chaima bel Zine Eddine,6,202208,1,10,223
+1389,89,M,Ramzi ben Abdel Allah,6,202094,1,5,272
+1390,74,M,Younes ben Zolikha,5,204325,1,10,377
+1391,34,F,Yousra bou Khadija,1,203929,2,8,113
+1392,74,F,Loubna bel Abde Al Bassit,3,202648,2,4,331
+1393,11,M,Hatem ben Abde Al Bassit,2,204509,1,6,499
+1394,15,M,Haitham bel Youcef,1,204274,2,3,162
+1395,77,F,Saliha ould Saleh,10,204691,1,3,217
+1396,97,M,Ahmed ben Karima,7,200313,2,1,157
+1397,81,F,Sahar bel Loubna,1,203837,2,6,509
+1398,11,F,Maissa bel Omar,7,203926,1,1,432
+1399,76,F,Roumaissa ould Khaoula,8,202774,2,9,283
+1400,81,F,Lilya ben Haitham,10,204042,2,3,325
+1401,86,M,Saleh bel Imad,4,200717,2,2,198
+1402,83,M,Ramzi bel Dhiaa Eddine,9,203664,2,2,39
+1403,48,M,Ramzi ben Sahar,5,200866,2,10,496
+1404,15,M,Dhiaa Eddine ben Zineb,7,202707,1,1,357
+1405,54,M,Saleh bel Abde Al Aziz,10,201579,1,1,453
+1406,83,F,Loubna bou Abde Al Bassit,1,200268,2,4,278
+1407,50,F,Naoual ben Mouslim,8,202707,1,7,334
+1408,16,M,Amine bel Sahar,10,202907,2,5,367
+1409,78,F,Chaima ben Sara,8,202228,1,2,406
+1410,72,F,Yasmine bou Zolikha,10,201687,2,3,352
+1411,29,F,Mahdiya ould Zolikha,5,203362,1,4,434
+1412,18,M,Sohaib bel Foulla,9,202684,2,9,516
+1413,36,F,Manel bou Karima,1,201870,1,6,265
+1414,76,M,Amine bou Abde Al Aziz,5,203228,1,7,454
+1415,95,F,Maissa ben Lakhdar,7,204878,2,5,332
+1416,46,F,Maissa bou Aicha,5,202103,2,5,343
+1417,75,M,Ahmed ben Amina,3,202522,2,8,383
+1418,46,M,Ahmed ould Zine Eddine,10,201301,1,8,66
+1419,69,M,Dhiaa Eddine bel Lakhdar,8,200892,1,3,482
+1420,87,M,Hakim bel Chaima,9,201492,1,7,254
+1421,26,M,Younes ould Roumaissa,4,201588,1,10,28
+1422,83,F,Feriel bou Kaddour,1,203953,1,1,152
+1423,60,F,Roumaissa bel Saleh,8,203674,1,10,235
+1424,49,M,Haitham bel Sohaib,7,204058,2,9,469
+1425,54,M,Dirar bou Malek,2,202603,1,2,339
+1426,49,F,Roumaissa bou Chaima,7,200003,1,7,29
+1427,77,F,Feriel bou Juba,6,202640,2,4,524
+1428,29,F,Manel ould Sara,7,204361,1,8,323
+1429,34,F,Zolikha ould Hakim,2,200147,1,10,413
+1430,91,M,Youcef ould Younes,8,202283,2,3,257
+1431,91,M,Abdel Allah bel Khadija,1,203347,2,3,90
+1432,35,M,Imad ben Omar,9,204639,1,9,143
+1433,90,F,Mahdiya bel Youcef,1,203012,2,4,216
+1434,97,M,Oussama bou Sara,3,200849,2,1,16
+1435,57,M,Oussama bou Juba,1,203924,2,6,315
+1436,23,M,Amine bou Saliha,8,200344,1,3,224
+1437,44,M,Mouslim bel Karima,5,203929,1,3,491
+1438,86,M,Saleh ould Yousra,2,202595,1,7,351
+1439,19,F,Roumaissa bou Mokhtar,6,202420,2,1,317
+1440,51,F,Chaima ould Sahar,2,204886,1,6,236
+1441,10,M,Zine Eddine ould Zine Eddine,9,204939,2,6,444
+1442,46,M,Lakhdar ben Saliha,2,204714,2,1,203
+1443,100,F,Yamina ben Mohammed,2,204092,1,10,102
+1444,56,M,Imad ould Saliha,2,204030,1,10,384
+1445,17,F,Aicha bou Ahmed,7,204147,1,1,301
+1446,84,F,Saliha bou Chaima,2,201795,1,9,84
+1447,14,F,Lilya ben Imad,4,204317,1,10,430
+1448,32,F,Loubna ben Melissa,6,203559,2,10,444
+1449,46,M,Allaa Eddine bou Mohammed,7,204559,2,4,448
+1450,36,M,Abde Al Bassit bou Sara,3,204586,2,3,384
+1451,25,F,Melissa ben Mohammed,7,204327,2,3,223
+1452,50,F,Loubna ould Zineb,7,200880,2,3,44
+1453,96,M,Dhiaa Eddine ould Juba,5,202241,2,3,519
+1454,85,M,Abde Al Aziz bou Juba,10,200019,2,7,131
+1455,65,F,Roumaissa ben Nesrine,10,202367,2,8,31
+1456,57,M,Mokhtar ould Aicha,9,201328,1,5,11
+1457,79,M,Mokhtar ben Yamina,8,202330,2,3,335
+1458,92,F,Naoual ould Roumaissa,10,203410,1,7,407
+1459,33,F,Maria ben Dirar,4,200299,1,6,450
+1460,70,F,Maissa ould Manel,10,200073,2,9,449
+1461,99,F,Sahar bel Khaoula,2,200982,1,2,194
+1462,57,F,Sahar ben Zolikha,8,202721,1,6,231
+1463,16,M,Juba bel Zolikha,4,201257,1,10,10
+1464,81,F,Manel ben Foulla,4,202703,2,8,509
+1465,28,M,Dirar ben Melissa,1,203590,1,3,265
+1466,42,F,Maria ould Yasmine,4,200474,1,4,426
+1467,41,F,Karima bou Khadija,9,202360,2,9,445
+1468,85,F,Mahdiya ould Sara,8,204694,1,10,255
+1469,14,F,Zineb bou Mouslim,10,202107,1,10,355
+1470,53,F,Nesrine bou Mohammed,2,202841,1,4,241
+1471,30,M,Mohammed ben Kaddour,6,201706,1,6,415
+1472,55,M,Mouslim bel Hakim,10,202997,1,2,452
+1473,74,F,Lilya ben Amina,9,200862,2,8,55
+1474,25,M,Youcef ould Amina,8,202679,2,8,514
+1475,64,M,Younes bel Zolikha,3,201920,1,8,542
+1476,83,M,Hatem bou Yamina,3,200134,1,3,514
+1477,16,M,Ramzi bou Mokhtar,10,201069,1,6,388
+1478,26,F,Nesrine ben Mahdiya,8,203318,2,10,498
+1479,68,M,Juba ould Abdel Allah,1,204280,1,10,405
+1480,69,F,Roumaissa ould Mouslim,1,204906,2,2,519
+1481,70,M,Haitham bou Haitham,10,203659,1,9,139
+1482,35,F,Saliha bou Allaa Eddine,2,202424,1,5,372
+1483,31,F,Maria bou Hakim,10,202368,1,9,259
+1484,88,F,Maria bou Melissa,5,200062,2,1,374
+1485,57,F,Loubna ould Zine Eddine,4,200250,2,8,359
+1486,33,F,Mahdiya ben Saliha,6,202758,1,10,211
+1487,62,M,Mohammed ben Oussama,6,200332,2,2,219
+1488,57,F,Amina bel Malek,3,204718,2,2,367
+1489,12,F,Sara bel Roumaissa,4,203343,1,7,247
+1490,82,F,Naoual bou Younes,5,202111,1,5,465
+1491,76,F,Yousra bel Aicha,6,200278,2,6,44
+1492,29,M,Akram ben Lakhdar,8,204451,2,1,540
+1493,45,M,Akram bou Yamina,9,204703,2,2,130
+1494,88,M,Mokhtar bou Sohaib,1,204594,2,2,409
+1495,67,F,Saliha bou Akram,10,200798,1,1,46
+1496,15,F,Zolikha ben Manel,9,200421,1,1,268
+1497,40,M,Akram bou Yousra,1,201930,1,8,449
+1498,57,F,Yousra bou Yamina,10,203076,2,1,472
+1499,100,F,Yousra ben Mouslim,5,203254,1,5,36
+1500,73,F,Feriel bou Chaima,7,202517,2,2,191
+1501,40,M,Omar ould Mahdiya,9,203248,2,7,458
+1502,39,F,Nesrine ben Naoual,3,200012,2,1,382
+1503,72,F,Sara ould Amina,2,200139,1,8,152
+1504,16,M,Malek bou Saliha,7,203992,2,7,272
+1505,94,M,Haitham bou Mahdiya,8,202453,1,7,220
+1506,52,F,Loubna bou Akram,1,202589,2,7,290
+1507,31,M,Abde Al Bassit ould Foulla,1,203884,1,7,67
+1508,96,M,Zine Eddine bel Juba,4,200299,1,2,494
+1509,34,F,Yasmine ould Foulla,7,203365,2,6,522
+1510,61,M,Mokhtar bou Mouslim,4,202617,2,7,294
+1511,79,M,Malek ould Maissa,1,200528,1,4,534
+1512,14,F,Zineb ben Manel,7,203761,2,7,65
+1513,46,M,Malek bel Omar,7,201919,1,3,256
+1514,43,M,Kaddour ben Younes,7,203837,1,10,171
+1515,54,F,Chaima bou Zine Eddine,10,202853,1,5,360
+1516,44,F,Manel bel Lakhdar,9,200934,1,9,237
+1517,79,F,Saliha bou Younes,4,202053,1,3,213
+1518,15,F,Farah bou Karima,7,202363,2,3,138
+1519,48,M,Mokhtar bou Mokhtar,4,201426,1,1,33
+1520,54,M,Akram bel Lilya,5,201293,2,3,513
+1521,83,M,Kaddour ould Zineb,3,203588,1,3,413
+1522,19,M,Oussama ben Mahdiya,10,201319,1,7,437
+1523,36,M,Hatem ben Ramzi,2,201581,2,6,438
+1524,31,F,Mahdiya bel Younes,10,202083,1,2,319
+1525,40,F,Saliha bel Karima,3,201774,1,5,465
+1526,15,M,Ahmed ould Yamina,4,200358,1,1,324
+1527,22,M,Youcef ould Amine,1,201868,1,10,146
+1528,41,F,Aicha ben Nesrine,4,204722,1,1,227
+1529,17,F,Manel ould Abdel Allah,7,200131,1,4,325
+1530,55,M,Dhiaa Eddine ben Chaima,8,202469,1,10,500
+1531,78,M,Abde Al Aziz ben Manel,5,203869,1,6,174
+1532,89,M,Akram bel Khadija,10,200601,2,9,157
+1533,84,F,Nesrine ben Malek,1,200778,1,4,281
+1534,79,F,Lilya ben Loubna,9,204085,2,10,423
+1535,94,F,Farah ould Zine Eddine,4,200419,2,6,509
+1536,86,M,Youcef ben Saliha,5,201417,1,7,357
+1537,71,M,Kaddour ben Amine,3,202670,1,9,326
+1538,10,F,Maissa ould Lakhdar,8,201610,2,10,341
+1539,22,F,Zineb ould Saliha,4,201985,2,1,94
+1540,30,M,Abde Al Bassit bel Sohaib,7,204024,1,5,73
+1541,43,M,Juba bel Maria,3,200267,2,5,117
+1542,41,F,Yousra bou Zineb,4,204947,1,5,37
+1543,67,M,Younes bel Sohaib,4,203566,1,3,459
+1544,58,F,Farah ould Khadija,8,203860,1,3,219
+1545,92,F,Karima ould Juba,2,202661,1,4,24
+1546,53,F,Lilya bel Khaoula,4,203711,2,1,210
+1547,71,F,Khadija bou Mohammed,8,201050,2,3,278
+1548,14,F,Manel ben Sohaib,8,204421,1,6,236
+1549,37,M,Haitham ould Roumaissa,3,202771,2,7,309
+1550,20,M,Hakim ben Mahdiya,2,204133,2,7,195
+1551,70,M,Sohaib ben Lakhdar,3,200491,2,9,262
+1552,94,F,Feriel ould Zineb,7,200764,2,8,38
+1553,94,F,Foulla bou Imad,9,202867,1,7,319
+1554,20,F,Loubna bou Kaddour,6,201853,2,10,26
+1555,51,F,Zineb ben Amine,7,203229,1,7,287
+1556,88,F,Mahdiya ould Dirar,9,204855,1,9,505
+1557,61,M,Amine bel Abdel Allah,5,204533,1,8,187
+1558,59,F,Maissa ben Sahar,1,202392,1,10,49
+1559,96,F,Loubna bel Feriel,7,201826,2,3,384
+1560,34,M,Mokhtar bel Mohammed,3,204454,1,8,476
+1561,21,M,Malek bou Khadija,5,204381,2,1,318
+1562,57,F,Zineb bel Lakhdar,6,204299,2,9,280
+1563,23,F,Maria ben Lilya,3,202462,1,6,235
+1564,35,F,Sahar ould Zineb,8,200171,1,9,169
+1565,58,F,Aicha bel Ramzi,7,204020,1,9,258
+1566,27,F,Mahdiya ben Malek,7,200940,2,2,464
+1567,100,F,Aicha ben Maria,2,204544,2,2,110
+1568,63,M,Dhiaa Eddine bou Sara,7,200903,1,8,163
+1569,88,F,Loubna bou Juba,1,202873,2,8,389
+1570,12,M,Hakim ben Khaoula,7,200199,2,1,244
+1571,83,M,Youcef bou Khadija,6,202143,1,7,467
+1572,72,F,Maria bel Yousra,9,200298,2,4,193
+1573,86,F,Sara bou Mahdiya,5,203568,1,5,295
+1574,82,M,Imad bel Yasmine,1,201365,2,5,244
+1575,80,F,Sahar bou Sahar,1,200058,2,7,82
+1576,39,M,Dhiaa Eddine bel Saleh,9,202578,2,9,416
+1577,85,F,Foulla ould Yamina,9,203886,1,4,30
+1578,50,F,Foulla bel Farah,5,200303,2,6,331
+1579,77,M,Dhiaa Eddine ben Melissa,1,201321,2,1,86
+1580,63,F,Amina ben Dirar,5,201129,1,7,523
+1581,30,M,Ahmed bou Imad,8,204234,1,10,429
+1582,52,M,Sohaib ould Zolikha,7,200478,1,9,150
+1583,99,F,Maria bou Ramzi,2,201641,2,10,401
+1584,13,M,Ramzi bel Feriel,2,202452,2,6,424
+1585,97,M,Zine Eddine ould Akram,4,201424,2,7,50
+1586,84,M,Haitham ben Juba,10,203207,2,4,76
+1587,82,F,Feriel bel Roumaissa,8,201852,1,1,383
+1588,88,M,Zine Eddine ben Yamina,3,200438,1,10,415
+1589,79,M,Dhiaa Eddine ben Manel,10,201297,2,5,127
+1590,72,F,Nesrine ould Imad,6,204267,2,8,533
+1591,30,F,Manel bou Amine,5,203105,1,10,360
+1592,14,M,Hakim bou Dirar,9,202738,2,3,379
+1593,34,M,Abde Al Aziz bel Manel,1,203590,2,7,324
+1594,69,F,Loubna bou Kaddour,3,204990,1,2,76
+1595,97,F,Khaoula ould Yousra,6,200134,2,8,30
+1596,49,F,Zolikha ben Saleh,3,204150,1,10,448
+1597,40,M,Sohaib bel Ahmed,7,204450,2,6,292
+1598,83,M,Abdel Allah ould Lakhdar,5,203304,1,5,86
+1599,87,M,Dirar bou Ramzi,10,204091,1,5,210
+1600,93,F,Foulla ould Haitham,1,201242,2,2,11
+1601,53,F,Lilya ben Mahdiya,5,203066,1,1,344
+1602,11,M,Amine bou Roumaissa,7,203585,1,6,388
+1603,79,M,Hakim ben Zineb,9,203490,1,7,31
+1604,20,F,Yousra ben Aicha,10,202237,1,10,119
+1605,85,M,Dhiaa Eddine ould Saliha,6,202655,1,5,65
+1606,37,F,Naoual ould Abde Al Aziz,8,202786,1,5,395
+1607,42,F,Yasmine ould Youcef,6,203331,2,9,6
+1608,66,F,Khadija bel Younes,4,203186,1,6,231
+1609,73,F,Naoual ben Abde Al Aziz,7,203534,2,3,186
+1610,63,M,Hakim bou Karima,2,202197,2,5,47
+1611,43,F,Yasmine ben Manel,4,201391,2,7,242
+1612,49,M,Saleh ould Yasmine,10,200412,1,10,98
+1613,55,F,Nesrine ould Sohaib,3,202343,2,7,503
+1614,31,F,Zineb bou Omar,2,201624,2,7,143
+1615,33,M,Akram bel Khadija,10,203116,2,10,257
+1616,13,M,Mouslim ben Abde Al Bassit,2,204925,1,3,357
+1617,92,F,Khadija bou Nesrine,9,203318,1,9,313
+1618,97,F,Maissa ben Maria,2,201879,1,9,429
+1619,62,M,Omar ould Amine,6,202006,1,9,292
+1620,65,F,Chaima bel Aicha,7,203237,2,1,110
+1621,67,F,Sahar ould Youcef,7,200199,1,5,448
+1622,56,M,Zine Eddine ould Lakhdar,9,202641,1,1,542
+1623,50,F,Amina ben Loubna,1,200847,2,3,482
+1624,16,M,Younes ben Omar,2,201440,2,10,308
+1625,39,F,Chaima bou Abde Al Aziz,1,201352,2,3,214
+1626,31,F,Roumaissa bou Khaoula,5,203212,2,5,316
+1627,20,M,Saleh ould Nesrine,1,203953,1,10,548
+1628,53,M,Imad ould Dirar,3,200320,1,3,62
+1629,22,F,Roumaissa ben Foulla,9,200655,1,7,511
+1630,75,M,Imad ben Zine Eddine,10,204893,1,3,414
+1631,97,M,Hakim ben Yamina,9,202711,1,5,114
+1632,92,F,Nesrine bou Amina,6,200898,2,6,310
+1633,93,M,Hatem ben Imad,6,203946,1,8,508
+1634,74,M,Allaa Eddine bel Ramzi,4,204731,2,3,441
+1635,51,M,Abde Al Bassit ould Maissa,4,202691,1,5,269
+1636,81,F,Chaima bel Saliha,5,203951,1,6,103
+1637,66,F,Roumaissa ould Hakim,5,204538,2,1,506
+1638,21,M,Mokhtar bou Yousra,6,200746,1,1,495
+1639,52,F,Maissa bou Kaddour,2,200968,2,8,121
+1640,46,F,Foulla bou Omar,6,202233,1,9,436
+1641,95,M,Imad bel Imad,8,200555,2,10,313
+1642,91,F,Sahar bou Dirar,9,201541,1,4,124
+1643,37,M,Youcef bou Sohaib,4,204029,1,3,298
+1644,52,M,Allaa Eddine ould Aicha,9,201233,2,8,183
+1645,80,F,Saliha bou Hakim,1,204755,1,6,405
+1646,87,M,Mouslim bou Zine Eddine,9,203087,2,10,56
+1647,72,M,Hakim ben Saliha,7,202775,1,2,305
+1648,14,F,Yamina ben Khaoula,2,204362,2,2,408
+1649,55,M,Omar bel Manel,9,204957,1,2,69
+1650,51,F,Yamina ould Oussama,10,201961,2,9,394
+1651,100,F,Loubna bou Haitham,8,203139,1,2,90
+1652,51,F,Chaima ould Dhiaa Eddine,2,201478,2,6,303
+1653,43,F,Maria ould Saliha,1,201082,2,1,477
+1654,69,F,Sara bou Nesrine,1,200728,2,10,74
+1655,88,F,Maissa bou Hatem,10,203710,2,10,138
+1656,39,M,Mokhtar ben Abdel Allah,1,204775,2,4,184
+1657,44,F,Foulla ben Aicha,7,202410,1,2,30
+1658,28,M,Imad ould Dirar,5,204699,2,1,138
+1659,28,M,Omar bou Younes,2,203122,2,2,488
+1660,83,F,Sara bou Roumaissa,9,201383,2,7,201
+1661,25,F,Manel ben Dhiaa Eddine,9,204923,1,8,101
+1662,76,F,Naoual bel Ahmed,2,202311,1,3,172
+1663,27,M,Malek ben Farah,1,202112,1,2,466
+1664,10,F,Foulla ben Abdel Allah,6,203943,2,3,415
+1665,73,M,Omar ould Yousra,6,204398,2,1,75
+1666,30,F,Khaoula bel Feriel,6,201573,1,3,270
+1667,24,F,Saliha bou Akram,5,202782,2,4,228
+1668,94,M,Younes bou Younes,1,200789,2,5,218
+1669,60,M,Ramzi bel Hakim,6,201751,1,2,91
+1670,49,F,Saliha bou Mohammed,3,201873,1,4,361
+1671,30,M,Abde Al Bassit ben Imad,7,204972,2,2,420
+1672,61,F,Mahdiya ould Loubna,7,202000,1,7,127
+1673,93,M,Oussama ould Oussama,3,201390,2,7,190
+1674,45,F,Naoual ould Amina,9,200474,2,1,323
+1675,77,F,Maissa ben Amina,6,200928,1,4,15
+1676,89,M,Hatem bou Mohammed,9,203420,1,1,117
+1677,94,F,Loubna bel Abdel Allah,10,204164,2,4,315
+1678,51,M,Haitham ould Imad,8,203246,1,8,271
+1679,22,M,Juba bel Amine,9,202010,2,10,477
+1680,38,F,Melissa bel Mouslim,7,201762,1,4,361
+1681,51,M,Juba ben Yamina,5,203490,2,10,301
+1682,49,M,Akram bou Ahmed,6,203199,1,7,460
+1683,45,M,Amine bou Imad,3,202739,2,3,151
+1684,75,M,Oussama ben Yasmine,3,200595,2,4,538
+1685,91,M,Mouslim ben Ramzi,10,203473,2,8,207
+1686,92,M,Sohaib bel Younes,1,202301,2,4,314
+1687,26,M,Hatem ould Aicha,1,201075,2,8,349
+1688,90,M,Juba bou Abde Al Bassit,5,201086,1,10,16
+1689,90,M,Abde Al Aziz ben Dhiaa Eddine,10,204471,2,1,46
+1690,22,F,Naoual ould Ahmed,3,203424,2,6,360
+1691,46,F,Yousra ben Hakim,5,204671,1,5,6
+1692,21,M,Saleh ben Naoual,2,204503,1,4,95
+1693,17,M,Hatem bel Maissa,1,200861,2,5,44
+1694,99,F,Khaoula bou Haitham,5,202105,1,2,423
+1695,98,M,Omar ould Yousra,3,202660,1,2,477
+1696,16,M,Saleh bel Haitham,6,201828,1,10,226
+1697,66,F,Lilya bel Omar,1,204944,2,5,42
+1698,21,M,Hatem ben Oussama,3,201880,1,2,402
+1699,96,F,Khaoula bou Abde Al Aziz,1,204168,1,2,414
+1700,56,F,Farah bel Amina,7,201713,1,8,213
+1701,37,M,Malek ould Amina,9,200097,2,4,466
+1702,86,M,Haitham ben Oussama,2,201370,1,7,7
+1703,24,F,Melissa ould Lakhdar,8,204059,1,7,415
+1704,62,F,Foulla bou Omar,7,204760,2,10,304
+1705,87,M,Ramzi bou Zolikha,7,201562,2,10,299
+1706,75,F,Aicha bou Aicha,8,201189,1,4,250
+1707,75,F,Lilya ould Roumaissa,2,200083,2,3,39
+1708,17,F,Mahdiya bel Loubna,4,202528,2,6,285
+1709,80,M,Ahmed ben Dhiaa Eddine,3,203919,2,6,469
+1710,25,F,Chaima bou Haitham,6,201771,1,5,237
+1711,46,F,Yasmine ben Lakhdar,7,201916,2,6,16
+1712,16,M,Mouslim bel Lakhdar,7,204214,1,4,288
+1713,45,F,Sahar bou Zineb,3,204822,1,7,89
+1714,87,M,Hatem ben Allaa Eddine,2,200053,1,7,194
+1715,58,F,Melissa ould Imad,8,204675,2,8,184
+1716,99,F,Khadija ould Zolikha,7,204183,2,1,450
+1717,56,M,Ramzi bel Hatem,10,202793,1,1,171
+1718,40,F,Karima bou Hatem,6,203973,1,5,176
+1719,43,F,Sahar ben Amina,2,202712,2,3,410
+1720,86,F,Yasmine ben Allaa Eddine,10,204890,2,6,287
+1721,19,M,Ramzi ben Dirar,10,202109,1,2,57
+1722,64,M,Mohammed ben Abde Al Bassit,6,201417,2,7,162
+1723,88,M,Abde Al Aziz bou Lakhdar,6,201835,2,10,370
+1724,47,F,Zolikha ben Feriel,9,203372,1,4,490
+1725,47,F,Khaoula bel Nesrine,2,204336,2,6,382
+1726,16,F,Foulla ben Khaoula,9,202638,2,2,136
+1727,54,M,Mokhtar ould Yousra,7,200610,1,2,105
+1728,81,M,Ahmed ould Melissa,4,200965,2,9,375
+1729,84,F,Manel bou Khadija,8,203247,1,10,320
+1730,95,F,Foulla bel Abde Al Aziz,8,200189,2,5,316
+1731,14,F,Saliha ould Naoual,5,204755,2,8,19
+1732,83,F,Lilya bou Omar,6,203875,2,1,353
+1733,32,M,Lakhdar bel Khaoula,2,202969,1,8,382
+1734,21,M,Juba bel Mouslim,4,201639,1,7,296
+1735,31,M,Kaddour bel Juba,3,202899,1,4,293
+1736,13,F,Yousra ould Younes,7,202799,1,3,180
+1737,48,M,Malek ben Zine Eddine,2,204284,1,8,465
+1738,32,F,Saliha ben Karima,1,203746,2,6,204
+1739,26,F,Khadija bou Malek,1,202389,1,4,346
+1740,62,F,Karima ben Younes,3,202603,1,3,104
+1741,94,M,Abde Al Bassit ben Khaoula,6,203286,2,3,266
+1742,82,F,Saliha bel Roumaissa,7,203626,2,7,288
+1743,72,M,Mouslim ben Dirar,8,202495,1,6,221
+1744,46,M,Hatem ould Farah,6,204184,2,10,295
+1745,19,F,Maria ould Yasmine,6,203603,2,5,303
+1746,67,M,Younes bel Saliha,7,202020,2,6,346
+1747,80,M,Allaa Eddine ben Mokhtar,4,201897,1,6,339
+1748,19,M,Imad bou Zolikha,4,204771,2,4,203
+1749,56,M,Zine Eddine ould Yasmine,8,200955,1,3,381
+1750,95,M,Saleh ould Youcef,5,204106,1,8,473
+1751,29,F,Yousra ould Juba,6,204699,1,10,241
+1752,55,F,Yasmine ben Naoual,4,204685,1,6,382
+1753,89,M,Saleh ben Mokhtar,3,202826,1,10,112
+1754,95,M,Dirar bel Amine,4,204784,1,3,323
+1755,93,M,Abde Al Aziz bou Mahdiya,8,202760,1,1,130
+1756,69,F,Farah bou Amine,9,202476,1,6,186
+1757,90,F,Khaoula bel Malek,9,203990,1,10,240
+1758,82,F,Sahar bel Ramzi,9,204233,2,8,40
+1759,94,F,Chaima bou Malek,6,203719,1,5,409
+1760,42,M,Youcef ben Roumaissa,1,203900,1,9,260
+1761,48,M,Saleh ben Hatem,7,204906,2,9,40
+1762,89,F,Sahar bel Zolikha,2,203501,1,3,470
+1763,58,F,Karima ould Zineb,3,202489,2,5,325
+1764,83,M,Hatem ben Saleh,7,203715,2,2,374
+1765,47,M,Omar ould Haitham,1,201661,2,8,293
+1766,45,F,Maria bou Karima,3,202526,2,5,69
+1767,52,F,Loubna ben Feriel,7,200032,2,5,216
+1768,22,F,Foulla ould Khaoula,3,203855,1,5,426
+1769,46,F,Nesrine bel Abde Al Bassit,1,203726,2,1,445
+1770,11,M,Juba ould Mohammed,9,203226,2,2,395
+1771,43,M,Youcef bou Chaima,6,203899,2,6,220
+1772,56,F,Khadija bou Imad,9,204067,2,10,59
+1773,51,F,Khadija ould Mohammed,10,204768,1,4,373
+1774,70,M,Malek ben Maria,9,201133,1,5,101
+1775,94,F,Zineb ould Loubna,9,203302,1,8,438
+1776,32,M,Abde Al Bassit ben Dhiaa Eddine,4,201929,1,3,190
+1777,35,M,Hakim ould Hatem,2,201603,1,6,268
+1778,41,F,Sahar bou Dhiaa Eddine,7,202549,1,7,212
+1779,77,F,Farah ben Saleh,3,204094,2,8,512
+1780,97,M,Sohaib ould Karima,6,201237,2,8,13
+1781,90,F,Melissa ben Yamina,9,203748,1,6,444
+1782,73,F,Melissa bou Nesrine,1,203909,2,4,59
+1783,11,F,Zineb bou Haitham,1,200717,1,1,498
+1784,50,F,Foulla ben Hakim,6,200085,2,6,230
+1785,19,M,Juba ould Farah,6,200427,2,6,35
+1786,70,F,Karima bel Chaima,5,200195,1,5,172
+1787,33,F,Chaima bel Khaoula,9,200436,2,5,457
+1788,83,M,Oussama bel Haitham,4,200422,2,8,181
+1789,51,M,Imad bel Zineb,1,200629,1,2,306
+1790,58,F,Lilya ould Haitham,9,202923,2,9,160
+1791,91,M,Juba bel Maissa,4,201019,2,6,378
+1792,67,M,Omar ben Karima,6,200224,2,4,268
+1793,23,F,Saliha bou Malek,3,202408,1,4,531
+1794,93,F,Amina bel Abdel Allah,5,203244,2,3,55
+1795,34,M,Haitham ben Hakim,8,201227,1,9,335
+1796,45,F,Aicha bou Amine,8,203712,1,2,369
+1797,10,M,Ahmed ben Aicha,3,202678,1,4,119
+1798,52,M,Juba bel Juba,7,201954,1,2,269
+1799,70,F,Yasmine bou Younes,7,200789,2,9,81
+1800,93,M,Abde Al Bassit bou Loubna,7,203227,2,8,76
+1801,82,F,Feriel bou Ahmed,4,203569,2,10,218
+1802,65,F,Feriel bou Mouslim,9,202831,1,1,246
+1803,56,F,Khadija ben Abde Al Aziz,1,202323,2,2,497
+1804,30,M,Mokhtar ould Haitham,1,203374,1,10,450
+1805,55,M,Haitham bou Zine Eddine,10,202598,2,3,22
+1806,88,F,Sahar ben Lilya,7,203446,1,5,224
+1807,80,F,Khadija bou Zolikha,5,200744,1,8,99
+1808,53,F,Yousra ben Lilya,7,200014,2,8,256
+1809,59,F,Zolikha ben Dirar,2,201808,1,2,510
+1810,35,F,Zineb bel Hakim,8,203743,1,9,272
+1811,24,F,Saliha bel Ramzi,9,203215,2,9,521
+1812,35,F,Yamina ben Sohaib,1,200443,1,8,134
+1813,69,F,Manel ben Nesrine,8,203239,2,3,129
+1814,31,M,Saleh bel Amina,10,202936,2,8,466
+1815,55,M,Juba bou Dirar,2,203501,1,2,268
+1816,23,F,Yamina bou Mahdiya,2,204868,1,5,532
+1817,23,F,Yousra bou Hakim,5,201821,1,1,340
+1818,89,F,Maria bou Manel,1,202765,1,6,142
+1819,100,F,Khadija bel Khadija,6,200508,2,1,468
+1820,48,M,Lakhdar ben Mohammed,5,200054,2,8,483
+1821,75,M,Hakim bel Nesrine,8,203342,2,9,13
+1822,28,M,Kaddour ben Maria,6,204036,2,4,82
+1823,42,M,Dhiaa Eddine bou Haitham,10,201054,2,3,390
+1824,96,M,Kaddour ben Kaddour,7,203310,2,7,180
+1825,76,F,Lilya ben Malek,5,200600,1,7,378
+1826,11,F,Khaoula ben Khaoula,6,204921,1,7,212
+1827,62,M,Lakhdar bel Dirar,8,201642,2,8,129
+1828,25,F,Sahar bou Youcef,7,201398,2,8,104
+1829,22,F,Zolikha ould Saleh,7,203963,2,6,249
+1830,70,M,Sohaib bou Kaddour,2,202969,1,3,119
+1831,20,F,Khadija bou Dhiaa Eddine,8,200010,2,8,46
+1832,60,F,Chaima ben Kaddour,2,203216,2,7,97
+1833,17,F,Saliha ould Mokhtar,8,204387,1,8,488
+1834,16,F,Yamina ould Oussama,8,203522,1,1,392
+1835,34,M,Akram bel Ramzi,9,204788,2,3,172
+1836,51,M,Younes ould Omar,2,204641,1,6,116
+1837,21,M,Ahmed bou Zineb,5,200487,1,6,303
+1838,51,M,Malek ben Allaa Eddine,3,201029,1,9,310
+1839,50,M,Dhiaa Eddine bel Yamina,4,202697,2,6,512
+1840,86,F,Nesrine bel Mouslim,10,202161,1,4,93
+1841,18,F,Chaima ben Saleh,4,203585,2,3,78
+1842,79,F,Amina ould Yousra,3,200283,2,8,200
+1843,12,F,Yasmine bel Dhiaa Eddine,7,202486,2,2,197
+1844,65,M,Sohaib ould Loubna,1,200923,1,3,478
+1845,26,F,Zineb ould Yasmine,6,202912,2,5,498
+1846,70,M,Malek bel Naoual,2,202981,2,6,95
+1847,97,F,Melissa ben Younes,6,204403,2,8,223
+1848,59,F,Khaoula ben Lakhdar,5,200149,2,4,508
+1849,85,M,Abde Al Aziz ould Imad,1,200258,1,6,102
+1850,69,F,Chaima bel Khadija,5,203909,1,3,205
+1851,25,F,Mahdiya ould Melissa,5,200473,2,10,434
+1852,66,F,Farah bou Roumaissa,5,201304,2,10,400
+1853,52,F,Saliha bel Mokhtar,6,201535,2,5,240
+1854,64,F,Maissa ben Omar,9,203549,2,1,96
+1855,93,F,Feriel bou Saliha,3,200758,2,3,50
+1856,24,F,Yousra ben Ahmed,7,201949,2,7,129
+1857,70,F,Chaima bou Mokhtar,8,200021,1,4,122
+1858,79,M,Mouslim bel Farah,4,204405,2,8,90
+1859,78,M,Dirar bel Imad,4,201283,2,7,298
+1860,79,F,Aicha bel Haitham,6,202398,2,3,322
+1861,21,M,Malek ould Abdel Allah,7,201419,2,10,463
+1862,16,F,Zineb bou Khaoula,7,201079,1,6,418
+1863,21,M,Hakim bou Mouslim,7,204518,1,10,53
+1864,36,F,Chaima bel Imad,10,200724,2,6,88
+1865,50,M,Hakim bel Sahar,2,202610,2,9,422
+1866,33,M,Zine Eddine ben Abde Al Aziz,8,202527,1,6,208
+1867,94,F,Khadija bel Amine,8,203523,2,3,45
+1868,54,F,Melissa bel Hakim,9,200317,2,8,39
+1869,92,F,Aicha bel Ramzi,1,201047,1,8,193
+1870,33,F,Farah ben Mohammed,9,201045,1,8,161
+1871,34,F,Foulla bou Mouslim,4,202424,2,8,446
+1872,10,F,Karima ould Saliha,10,203635,2,10,106
+1873,30,M,Ahmed ould Zolikha,5,203425,2,5,253
+1874,82,F,Farah bou Ramzi,9,200847,2,1,509
+1875,27,M,Dhiaa Eddine bou Haitham,4,200046,2,9,32
+1876,94,M,Abde Al Bassit ben Imad,3,203195,2,9,252
+1877,55,M,Dirar bou Hatem,10,200834,1,5,131
+1878,65,F,Mahdiya bou Kaddour,6,202915,1,5,447
+1879,55,F,Aicha ould Amine,7,200817,1,8,488
+1880,78,F,Saliha bel Dhiaa Eddine,4,202639,1,3,461
+1881,41,M,Omar bou Zineb,5,203380,1,7,356
+1882,21,M,Amine bou Zolikha,5,201839,1,8,211
+1883,51,M,Dhiaa Eddine bel Hatem,1,204326,1,9,314
+1884,38,M,Amine bel Chaima,7,203916,2,10,492
+1885,97,M,Lakhdar bou Amina,1,202636,1,8,404
+1886,13,M,Mohammed bel Saliha,9,200514,2,10,315
+1887,85,F,Zolikha ben Saleh,9,200076,2,9,499
+1888,54,F,Mahdiya ben Sohaib,6,201131,1,6,529
+1889,84,F,Feriel bou Feriel,3,201384,2,4,14
+1890,46,M,Lakhdar ould Manel,4,202775,2,6,246
+1891,36,F,Lilya bel Mahdiya,5,201929,1,10,333
+1892,93,M,Omar ould Abdel Allah,2,203537,1,7,376
+1893,92,M,Akram ben Abdel Allah,9,202432,2,3,325
+1894,11,M,Saleh bou Sahar,5,200509,1,9,448
+1895,84,F,Yousra ould Melissa,8,202030,1,6,150
+1896,89,F,Sahar bel Yamina,8,202394,1,1,99
+1897,83,M,Zine Eddine bel Melissa,10,204482,1,2,37
+1898,77,F,Sahar ben Kaddour,9,203955,2,7,478
+1899,26,F,Maria bou Mokhtar,9,204859,1,5,415
+1900,83,F,Aicha bel Mahdiya,2,202780,1,7,92
+1901,65,F,Karima bou Omar,2,202446,1,3,327
+1902,91,M,Oussama ben Mohammed,2,202593,1,8,318
+1903,59,F,Yousra ould Loubna,6,200320,2,10,408
+1904,61,F,Sahar bou Yamina,2,204097,2,6,547
+1905,57,M,Mouslim ben Foulla,2,204948,1,4,131
+1906,84,F,Lilya ben Lakhdar,8,200369,2,8,348
+1907,70,M,Juba ben Dhiaa Eddine,3,202862,1,8,523
+1908,12,M,Abdel Allah bel Akram,5,201756,2,2,309
+1909,26,M,Saleh bou Imad,4,203228,2,10,208
+1910,96,M,Dirar ben Chaima,8,204070,1,3,32
+1911,80,F,Chaima bou Mohammed,3,203360,2,3,447
+1912,14,F,Naoual bou Khaoula,6,200241,1,5,278
+1913,19,F,Saliha ould Maria,4,203376,1,5,436
+1914,39,F,Naoual ould Chaima,3,204156,2,7,188
+1915,57,F,Melissa bou Saliha,6,204732,2,6,96
+1916,11,M,Abde Al Bassit bou Dirar,6,203885,2,9,103
+1917,19,M,Ramzi bel Karima,1,204279,2,4,234
+1918,52,F,Zineb bou Sara,3,202654,2,4,247
+1919,13,F,Karima bel Younes,6,200053,1,10,293
+1920,11,M,Youcef ould Youcef,3,200856,1,1,397
+1921,62,M,Saleh ould Mokhtar,4,201283,1,5,408
+1922,85,M,Mouslim ould Karima,6,201584,2,9,13
+1923,10,F,Yamina bou Allaa Eddine,7,201404,1,8,48
+1924,63,M,Saleh ould Hakim,10,201914,2,8,156
+1925,37,F,Manel bou Mahdiya,1,200706,1,8,543
+1926,63,M,Younes bou Farah,1,202316,2,4,489
+1927,89,M,Dhiaa Eddine bel Foulla,8,203597,2,9,265
+1928,14,F,Mahdiya ben Abde Al Aziz,4,203001,2,4,414
+1929,35,M,Kaddour ould Lakhdar,7,204072,2,3,300
+1930,58,F,Khadija bou Younes,2,203195,1,9,536
+1931,97,F,Naoual bou Youcef,1,200989,1,7,409
+1932,85,F,Melissa bel Oussama,10,203038,2,2,238
+1933,22,F,Zineb bel Roumaissa,6,203827,1,6,69
+1934,24,F,Zolikha ould Sara,7,202125,1,10,117
+1935,58,F,Zineb ben Imad,7,202401,1,6,89
+1936,67,F,Yasmine bel Akram,9,200621,2,7,254
+1937,37,M,Allaa Eddine ben Hatem,7,203214,1,8,513
+1938,41,M,Omar bou Ramzi,9,203921,2,3,1
+1939,41,F,Roumaissa bel Feriel,5,203951,2,7,211
+1940,15,M,Haitham ben Chaima,7,203975,2,4,106
+1941,88,M,Kaddour bou Younes,7,200868,1,7,128
+1942,95,F,Chaima bou Akram,3,201394,2,5,94
+1943,41,M,Dirar bel Loubna,2,202258,2,7,231
+1944,15,M,Allaa Eddine ben Karima,3,201393,1,9,509
+1945,82,F,Yousra bou Saleh,9,203448,2,2,304
+1946,95,M,Abde Al Bassit bel Maissa,2,202580,1,5,545
+1947,30,M,Hakim bel Dhiaa Eddine,5,203524,1,5,378
+1948,32,M,Lakhdar ben Khaoula,7,200523,1,7,213
+1949,97,F,Yousra ould Amine,4,204534,2,3,277
+1950,93,M,Dirar ben Younes,6,203126,2,10,149
+1951,67,F,Farah bou Mouslim,10,203152,2,5,84
+1952,54,M,Amine bel Sara,5,203548,1,10,400
+1953,62,M,Zine Eddine bel Karima,6,204419,1,7,145
+1954,13,F,Saliha ben Foulla,3,204591,2,6,138
+1955,46,M,Ahmed ben Maissa,8,204199,2,6,313
+1956,75,F,Melissa ben Mahdiya,4,200121,1,5,192
+1957,94,F,Zineb bel Sohaib,5,203590,1,3,278
+1958,85,M,Dhiaa Eddine bou Zine Eddine,4,203443,1,10,437
+1959,36,M,Kaddour bel Saliha,10,202581,2,1,265
+1960,92,F,Loubna ould Ahmed,9,202398,1,9,39
+1961,91,M,Kaddour ben Abde Al Aziz,1,203323,1,8,505
+1962,43,F,Sara bel Karima,7,200913,1,8,454
+1963,21,F,Maria ben Foulla,5,200999,1,7,409
+1964,55,F,Farah ben Yamina,4,200557,1,2,328
+1965,92,F,Chaima bou Younes,2,203402,2,1,90
+1966,46,F,Nesrine bel Sara,2,204903,2,5,193
+1967,64,M,Mokhtar bel Khadija,4,204809,1,8,252
+1968,60,F,Mahdiya bou Dhiaa Eddine,3,203526,1,4,188
+1969,21,F,Zineb bou Saleh,2,202933,1,7,535
+1970,69,M,Oussama bel Roumaissa,3,202999,2,9,434
+1971,34,F,Loubna ben Zine Eddine,4,201651,2,6,215
+1972,71,F,Maissa bel Aicha,8,203270,1,2,416
+1973,24,F,Maria ben Hatem,4,204421,2,9,531
+1974,62,F,Manel ould Abdel Allah,7,204733,2,3,214
+1975,32,M,Youcef ould Haitham,5,201752,1,5,220
+1976,21,F,Sahar bou Nesrine,2,203049,2,4,144
+1977,12,F,Nesrine bou Sohaib,2,200738,1,5,456
+1978,18,M,Ahmed ben Sahar,9,203591,1,8,160
+1979,21,F,Chaima bou Akram,10,201632,1,2,197
+1980,14,F,Zineb bel Hakim,6,203634,1,8,499
+1981,38,F,Sara bel Roumaissa,5,203497,1,4,382
+1982,85,M,Lakhdar ould Zine Eddine,5,202162,1,6,324
+1983,79,F,Farah ben Dirar,10,200429,1,6,42
+1984,98,M,Ahmed bou Lilya,3,204021,2,4,206
+1985,90,F,Lilya bou Maissa,5,200618,1,8,334
+1986,59,M,Mokhtar ould Nesrine,9,202407,2,1,490
+1987,60,F,Amina bel Yousra,1,203826,1,5,70
+1988,15,F,Maissa ould Mouslim,10,202755,2,1,208
+1989,100,F,Khadija bel Imad,5,204241,1,10,472
+1990,31,F,Zineb bel Allaa Eddine,7,203446,1,9,377
+1991,60,M,Malek bou Farah,4,203329,2,10,330
+1992,26,M,Mokhtar bel Dhiaa Eddine,8,201387,2,4,9
+1993,87,F,Maissa ould Karima,6,200065,2,8,344
+1994,99,M,Abde Al Aziz bou Aicha,9,200434,2,7,194
+1995,94,F,Feriel bou Imad,2,202879,2,1,15
+1996,84,M,Ahmed ben Farah,8,200135,1,6,334
+1997,25,M,Mokhtar bel Nesrine,1,203435,1,5,190
+1998,85,F,Khadija bel Dhiaa Eddine,4,200518,2,5,294
+1999,52,F,Aicha bou Roumaissa,5,200985,1,8,206

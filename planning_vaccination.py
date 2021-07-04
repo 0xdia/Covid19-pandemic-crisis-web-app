@@ -63,8 +63,6 @@ patients = ProfilPatient.query.order_by(desc(ProfilPatient.age)).all()
 for patient in patients:
     zones[patient.zone_id].append([patient.code, patient.nom_complet])
 
-print("[*********] Planning")
-
 for key, value in zones.items():
     x = datetime.datetime.now()
     d = date(x.strftime("%c"))
@@ -73,6 +71,8 @@ for key, value in zones.items():
         patient.extend([f"centre de vaccination {Zone.query.filter_by(id=key).first().nom}", d])
         d = next_time(d)
 
-for key, value in zones.items():
-    print(key)
-    print(value)
+print(dairas)
+# for key, value in zones.items():
+#     print(key)
+#     print(value)
+
